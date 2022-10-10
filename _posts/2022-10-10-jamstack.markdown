@@ -4,4 +4,7 @@ title:  "Lorem Ipsum"
 date:   2022-10-9
 categories: jekyll update
 ---
-<h1>HOLA JAMSTACK</h1>
+
+#¿Qué es un JamStack?
+
+
