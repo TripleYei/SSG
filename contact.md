@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CONTACTO
+title: Contacto
 permalink: /contact/
 ---
 
