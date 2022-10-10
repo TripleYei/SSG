@@ -5,6 +5,6 @@ date:   2022-10-9
 categories: jekyll update
 ---
 
-#¿Qué es un JamStack?
+# ¿Qué es un JamStack?
 
 
