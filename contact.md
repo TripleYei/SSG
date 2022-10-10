@@ -5,4 +5,6 @@ permalink: /contact/
 ---
 
 
-#CONTACT
+<h1>Contacto</h1>
+
+<input type="text">
