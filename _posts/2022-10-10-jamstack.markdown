@@ -5,6 +5,14 @@ date:   2022-10-9
 categories: jekyll update
 ---
 
-# ¿Qué es un JamStack?
+# El JamStack
+
+Son las siglas.
+
+# JavaScript
+# Api
+# Markup
+
+
 
 
