@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Automatización de comandos en BASH"
+date:   2022-10-9
+categories: jekyll update
+---
+
+# Automaización en BASH
+
+Automatización del comando DIG 
+
+<a href="https://github.com/TripleYei/dig-bash"> Ir al GitHub</a>
+
+Automatización del comando Whois
+
+<a href="https://github.com/TripleYei/whois-bash">Ir al GitHub</a>
+
+Automatización del comando Ping
+
+<a href="https://github.com/TripleYei/ping-bash"> Ir al Github</a>
