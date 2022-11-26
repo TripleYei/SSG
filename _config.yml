@@ -1,7 +1,7 @@
 # Site settings
-title: Contacto
+title: Blog
 description: > # this means to ignore newlines until "baseurl:"
-  Es una prueba de un JamStack creado con generador de sitios estáticos llamado Jekyll
+  Es una prueba de un JamStack creado con generador de sitios estáticos llamado Jekyll, donde podrás ver en el Blog diferentes temas de tecnología
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://jamstackjekyll.netlify.app/" # the base hostname & protocol for your site
 github_username:  TripleYei
