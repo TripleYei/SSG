@@ -6,6 +6,6 @@ categories: jekyll update
 ---
 
 
-# Herramienta WHOIS creada con python
+# Herramienta WHOIS
 
 La herramienta saca información de un dominio, en el GitHub: https://github.com/tripleyei/whois, podrás descargar la herramienta y ver como usarla.
