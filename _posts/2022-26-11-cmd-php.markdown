@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Scripts en PH en Windows"
+title:  "Scripts en PHP en Windows"
 date:   2022-10-9
 categories: jekyll update
 ---
