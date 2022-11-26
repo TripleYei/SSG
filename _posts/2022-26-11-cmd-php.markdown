@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Scripts en PHP"
+date:   2022-10-9
+categories: jekyll update
+---
+
+# Scripts en PHP que hace uso de comandos de Windows.
+
+Uso de un servidor local, como XAMPP, en el Github <a href="https://github.com/TripleYei/windows_cmd_php"> Ir al GitHub</a>, descargar los archivos y en el navegaodr podrás
+probar los diferentes scripts.
+
