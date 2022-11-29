@@ -9,3 +9,31 @@ categories: Front-end
 # Plantillas hechas con HTML & CSS
 
 Por aqui dejo difentes webs que he hecho con HTML & CSS
+
+## Landing Page
+
+<a href="https://tripleyei.github.io/landingpage/"> Acceder</a>
+
+## Efecto circular en imágenes
+
+Al hacer clic en la imagen, veras un efecto circular
+
+<a href="https://tripleyei.github.io/RWD-images/"> Acceder al efecto</a>
+
+## HTML &  CSS
+
+<a href="https://tripleyei.github.io/RWD-HTML-CSS/"> Acceder</a>
+
+## Plantilla Landing Page
+
+<a href="https://tripleyei.github.io/template-RWD/"> Acceder</a>
+
+# Plantilla Landing Page
+
+<a href="https://tripleyei.github.io/portfolio/"> Acceder</a>
+
+# Plantilla Landing Page
+
+<a href="https://tripleyei.github.io/landing-css/"> Acceder</a>
+  
+ 
