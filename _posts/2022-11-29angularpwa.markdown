@@ -2,7 +2,7 @@
 layout: post
 title:  "Creación de una PWA con Angular"
 date:   2022-29-11
-categories: pwa
+categories: jekyll update
 ---
 
 
