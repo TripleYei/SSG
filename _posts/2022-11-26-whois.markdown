@@ -8,4 +8,4 @@ categories: jekyll update
 
 # Herramienta WHOIS
 
-La herramienta saca información de un dominio, en el GitHub: https://github.com/tripleyei/whois, podrás descargar la herramienta y ver como usarla.
+La herramienta saca información de un dominio, en el GitHub: <a href="https://github.com/tripleyei/whois"> Clic Enlace</a>, podrás descargar la herramienta y ver como usarla.
