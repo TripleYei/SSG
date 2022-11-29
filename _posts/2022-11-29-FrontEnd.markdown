@@ -8,7 +8,7 @@ categories: Front-end
 
 # Plantillas hechas con HTML & CSS
 
-Por aqui dejo difentes webs que he hecho con HTML & CSS
+Por aqui dejo diferentes sitio estáticos que he hecho con HTML & CSS
 
 ## Landing Page
 
