@@ -28,11 +28,11 @@ Al hacer clic en la imagen, veras un efecto circular
 
 <a href="https://tripleyei.github.io/template-RWD/"> Acceder</a>
 
-# Plantilla Landing Page
+## Plantilla Landing Page
 
 <a href="https://tripleyei.github.io/portfolio/"> Acceder</a>
 
-# Plantilla Landing Page
+## Plantilla Landing Page
 
 <a href="https://tripleyei.github.io/landing-css/"> Acceder</a>
   
