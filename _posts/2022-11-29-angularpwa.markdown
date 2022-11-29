@@ -47,6 +47,7 @@ ng add @angular/pwa
 ng build
 ~~~~
 
+NOTA : Tienes que subir la carpeta Dist , donde quieras desplegar este proyecto.
 
 ## Aqui tienes, cuando ese proyecto se sube a netlify
 
