@@ -11,7 +11,7 @@ Por aquí tenemos la documentacion : <a href="https://docs.pwabuilder.com/#/star
 
 ## Usar lo siguiente
 
-Aqu es la plantilla, con la que usamos la pwa
+La plantilla, con la que usamos la pwa
 <a href="https://github.com/pwa-builder/pwa-starter"> Acceder a la pwa</a>
 
 ## Proyecto desplegado
