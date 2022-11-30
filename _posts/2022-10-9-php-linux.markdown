@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Shell scripts creados PHP"
+title:  "Shell scripts PHP"
 date:   2022-10-9
 categories: jekyll update
 ---
