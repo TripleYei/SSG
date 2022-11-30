@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-# Shell scripts con PHP
+# Shell scripts PHP
 
 El script gathering.php  usa la herramienta dmitry para obtener información de un dominio, el comando dig, nslookup y whois
 
