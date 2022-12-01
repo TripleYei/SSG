@@ -8,5 +8,5 @@ categories: jekyll update
 # Mapa del mundo 
 
 Se crea un mapa SVG del mundo, donde se ve de colores  España, Italia y Francia.
-También está la opcion automatizada del mapa.
+También está la opción automatizada del mapa.
 Aqui dejo el enlace, <a href="https://github.com/TripleYei/svg_map_python"> Acceder al mapa</a>
