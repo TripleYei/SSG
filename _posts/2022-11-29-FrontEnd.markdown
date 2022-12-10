@@ -35,7 +35,7 @@ Al hacer clic en la imagen, veras un efecto circular
 ## Diseño web con  HTML y  CSS
  <a href="https://tripleyei.github.io/web_design_template/"> Acceder</a>
  
-## Responsive Web Design con HTML & CSS.
+## Responsive Web Design con HTML & CSS
  <a href="https://tripleyei.github.io/website/"> Acceder</a>
 ## Plantilla Landing Page
 
