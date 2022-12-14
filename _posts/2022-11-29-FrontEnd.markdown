@@ -41,5 +41,5 @@ Al hacer clic en la imagen, veras un efecto circular
 
 <a href="https://tripleyei.github.io/landing-css/"> Acceder</a>
   
- ## Efecto TypeWriter
+## Efecto TypeWriter
  <a href="https://tripleyei.github.io/efecto_writer/">Acceder</a>
