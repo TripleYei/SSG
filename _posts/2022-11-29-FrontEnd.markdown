@@ -49,3 +49,9 @@ Al hacer clic en la imagen, veras un efecto circular
 
 ## Feliz Navidad
 <a href="https://tripleyei.github.io/feliz_navidad/">Acceder</a>
+
+## Efecto Feliz 2023
+<a href="https://tripleyei.github.io/efecto_2023/"> Feliz año 2023</a>
+
+## Efecto Ripple
+<a href="https://tripleyei.github.io/efecto_Ripple/"> Acceder al Efecto</a>
