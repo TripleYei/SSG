@@ -7,3 +7,19 @@ categories: jekyll update
 
 # CTF
 Por aquí voy a dejar diferentes retos CTF.
+
+## https://ctfchallenge.com
+
+Reto : VulnBegin
+
+Por aquí dejo el objetivo : http://www.vulnbegin.co.uk/
+
+Miramos los robots.txt del objetivo : http://www.vulnbegin.co.uk/robots.txt
+
+Vemos lo siguiente :
+
+Disallow: /secret_d1rect0y/
+
+Dentro del objetivo : http://www.vulnbegin.co.uk/secret_d1rect0y
+
+¡Felicidades ya tenemos el Flag ! [^FLAG^2B22E2CB70E218510802B0359488F6A2^FLAG^]
