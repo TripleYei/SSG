@@ -42,6 +42,7 @@ Y nos sale lo siguiente:
 
 Disallow: /1bb4c.html
 
+https://jupiter.challenges.picoctf.org/problem/56830/1bb4c.html
 
 ¡Felicidades tenemos el FLAG! picoCTF{ca1cu1at1ng_Mach1n3s_1bb4c}
 
