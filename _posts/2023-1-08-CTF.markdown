@@ -56,7 +56,7 @@ En el Inspector :
 
 Miramos en la pestaña editor de estilos :
 
-Donde tnemos : picoCTF{1nclu51v17y_1of2_
+Donde tenemos : picoCTF{1nclu51v17y_1of2_
 
 En ver código fuente :
 
