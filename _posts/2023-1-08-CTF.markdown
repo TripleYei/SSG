@@ -10,7 +10,7 @@ Por aquí voy a dejar diferentes retos CTF.
 
 ## <a href="https://ctfchallenge.com"> https://ctfchallenge.com</a>
 
-Reto : VulnBegin
+## Reto : VulnBegin
 
 Por aquí dejo el objetivo : http://www.vulnbegin.co.uk/
 
@@ -30,10 +30,14 @@ Dentro del objetivo : http://www.vulnbegin.co.uk/secret_d1rect0y
 ## Categoría : Web Exploitation
 
 Where are the robots
+<br/>
 Objetivo : https://jupiter.challenges.picoctf.org/problem/56830/
+<br/>
 Vemos los robots.txt
 https://jupiter.challenges.picoctf.org/problem/56830/robots.txt
+<br/>
 Y nos sale lo siguiente
 Disallow: /1bb4c.html
+<br/>
 ¡Felicidades tenemos el FLAG! picoCTF{ca1cu1at1ng_Mach1n3s_1bb4c}
 
