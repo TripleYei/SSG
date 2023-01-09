@@ -22,7 +22,7 @@ Disallow: /secret_d1rect0y/
 
 Dentro del objetivo : http://www.vulnbegin.co.uk/secret_d1rect0y
 
-¡Felicidades ya tenemos el Flag ! [^FLAG^2B22E2CB70E218510802B0359488F6A2^FLAG^]
+¡Felicidades tenemos el Flag ! [^FLAG^2B22E2CB70E218510802B0359488F6A2^FLAG^]
 
 
 ## <a href="https://www.picoctf.org/">https://www.picoctf.org/</a>
