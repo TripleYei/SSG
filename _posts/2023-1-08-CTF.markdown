@@ -76,7 +76,7 @@ Inspect HTML
 
 Objetivo : http://saturn.picoctf.net:50920/
 
-Entramos en Inspector :
+Entramos en el Inspector :
 
 Ahí está la bandera comentada en código HTML :
 
