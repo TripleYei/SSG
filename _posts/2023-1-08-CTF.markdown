@@ -61,7 +61,9 @@ Donde tenemos : picoCTF{1nclu51v17y_1of2_
 En ver código fuente :
 
 Dentro del código JS
+~~~~
 <script src="script.js"></script>
+~~~~
 
 Tenemos : f7w_2of2_df589022}
 
