@@ -12,7 +12,7 @@ Por aquí voy a dejar diferentes retos CTF.
 
 ## Reto : VulnBegin
 
-Por aquí dejo el objetivo : http://www.vulnbegin.co.uk/
+objetivo : http://www.vulnbegin.co.uk/
 
 Miramos los robots.txt del objetivo : http://www.vulnbegin.co.uk/robots.txt
 
