@@ -45,3 +45,38 @@ Disallow: /1bb4c.html
 
 ¡Felicidades tenemos el FLAG! picoCTF{ca1cu1at1ng_Mach1n3s_1bb4c}
 
+## Categoría : Web Exploitation
+
+includes
+
+Objetivo : http://saturn.picoctf.net:54634/
+
+En el Inspector :
+
+Miramos en la pestaña editor de estilos :
+
+Donde tnemos : picoCTF{1nclu51v17y_1of2_
+
+En ver código fuente :
+
+Dentro del código JS
+<script src="script.js"></script>
+
+Tenemos : f7w_2of2_df589022}
+
+Al juntar las dos partes : picoCTF{1nclu51v17y_1of2_f7w_2of2_df589022}
+
+## Categoría : Web Exploitation
+
+Inspect HTML
+
+Objetivo : http://saturn.picoctf.net:50920/
+
+Entramos en Inspector :
+
+Ahí está la bandera comentada en código HTML :
+
+picoCTF{1n5p3t0r_0f_h7ml_1fd8425b}
+
+
+
