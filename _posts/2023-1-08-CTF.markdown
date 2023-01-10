@@ -184,5 +184,29 @@ pseudo=="4dm1n" && password=="sh.org"
 La contraseña es : sh.org
 
 
+JavaScript Source :
 
+Objetivo : http://challenge01.root-me.org/web-client/ch1/
+
+Nos sale un alert, le damos a aceptar , miramos el código fuente
+
+Tenemos el código JS :
+
+~~~~
+<script type="text/javascript">
+	/* <![CDATA[ */
+	    function login(){
+		pass=prompt("Entrez le mot de passe / Enter password");
+		if ( pass == "123456azerty" ) {
+		    alert("Mot de passe accepté, vous pouvez valider le challenge avec ce mot de passe.\nYou can validate the challenge using this password.");  }
+		else {
+		    alert("Mauvais mot de passe / wrong password !");
+		}
+	    }
+	/* ]]> */
+	</script>
+~~~~
+
+
+La contraseña : 123456azerty
 
