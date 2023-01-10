@@ -179,7 +179,7 @@ function Login(){
 
 Tenemos el username y la password 
 
-pseudo=="4dm1n" && password=="sh.org
+pseudo=="4dm1n" && password=="sh.org"
 
 La contraseña es : sh.org
 
