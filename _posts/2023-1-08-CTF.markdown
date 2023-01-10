@@ -84,7 +84,105 @@ Ahí está la bandera comentada en código HTML :
 <!-- picoCTF{1n5p3t0r_0f_h7ml_1fd8425b} -->
 ~~~~
 
+
 picoCTF{1n5p3t0r_0f_h7ml_1fd8425b}
+
+
+## <a href="https://www.root-me.org">https://www.root-me.org</a>
+
+## Challenges : Web - Client
+
+HTML - disabled buttons
+
+Objetivo : http://challenge01.root-me.org/web-client/ch25/
+
+Entramos en el inspector 
+
+Miramos en el código HTML del formulario (form)
+
+~~~~
+<form action="" method="post" name="authform">
+            <div>
+                <input disabled type="text" name="auth-login" value="" />
+                <input disabled type="submit" value="Member access" name="authbutton" />
+            </div>
+        </form>
+~~~~
+
+Le quitamos disabled a los inpunt
+
+~~~~
+<form action="" method="post" name="authform">
+            <div>
+                <input type="text" name="auth-login" value="" />
+                <input type="submit" value="Member access" name="authbutton" />
+            </div>
+        </form>
+~~~~
+
+Ahora ya funciona, el formulario, ponemos por ejemplo Hola y pulsamos en Member access
+
+~~~~
+Member access granted! The validation password is HTMLCantStopYou
+~~~~
+
+Ya tenemos la contraseña : HTMLCantStopYou
+
+
+Javascript - Authentication
+
+Objetivo : http://challenge01.root-me.org/web-client/ch9/
+
+Entramos en el inspector,  pestaña red : Le damos a recargar
+
+Dentro de la pestaña consola , GET http://challenge01.root-me.org/web-client/ch9/login.js
+
+Pestaña respuesta :
+
+~~~~
+GEThttp://challenge01.root-me.org/web-client/ch9/login.js
+[HTTP/1.1 200 OK 0ms]
+
+/* <![CDATA[ */
+
+function Login(){
+
+  var pseudo=document.login.pseudo.value;
+
+  var username=pseudo.toLowerCase();
+
+  var password=document.login.password.value;
+
+  password=password.toLowerCase();
+
+  if (pseudo=="4dm1n" && password=="sh.org") {
+
+      alert("Password accepté, vous pouvez valider le challenge avec ce mot de passe.\nYou an validate the challenge using this password.");
+
+  } else { 
+
+
+      alert("Mauvais mot de passe / wrong password"); 
+
+
+
+  }
+
+
+
+}
+
+
+/* ]]> */ 
+
+~~~~
+
+Tenemos el username y la password 
+
+pseudo=="4dm1n" && password=="sh.org
+
+La contraseña es : sh.org
+
 
 
 
