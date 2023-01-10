@@ -109,7 +109,7 @@ Miramos en el código HTML del formulario (form)
         </form>
 ~~~~
 
-Le quitamos disabled a los inpunt
+Le quitamos disabled a los input
 
 ~~~~
 <form action="" method="post" name="authform">
