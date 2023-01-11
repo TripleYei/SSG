@@ -271,8 +271,10 @@ Nos sale un alert, le damos a cancelar , miramos en el código fuente
           </script>
 ~~~~
 
-Vemos que la contraseña es : pass = '%63%70%61%73%62%69%65%6e%64%75%72%70%61%73%73%77%6f%72%64';
-
+Vemos que la contraseña es : 
+~~~~
+pass = '%63%70%61%73%62%69%65%6e%64%75%72%70%61%73%73%77%6f%72%64';
+~~~~
 Para descubrir la contraseña hacemos lo siguiente :
 
 En inspeccionar, entramos en la pestaña consola :
