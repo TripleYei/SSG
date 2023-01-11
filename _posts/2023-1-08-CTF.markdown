@@ -210,3 +210,82 @@ Tenemos el código JS :
 
 La contraseña : 123456azerty
 
+Javascript - Authentication 2
+
+Objetivo : http://challenge01.root-me.org/web-client/ch11/
+
+Ver código fuente de la web. Miramos en el login.js
+
+~~~~
+<script language="JavaScript" src="login.js"></script>
+
+~~~~
+
+~~~~
+function connexion(){
+    var username = prompt("Username :", "");
+    var password = prompt("Password :", "");
+    var TheLists = ["GOD:HIDDEN"];
+    for (i = 0; i < TheLists.length; i++)
+    {
+        if (TheLists[i].indexOf(username) == 0)
+        {
+            var TheSplit = TheLists[i].split(":");
+            var TheUsername = TheSplit[0];
+            var ThePassword = TheSplit[1];
+            if (username == TheUsername && password == ThePassword)
+            {
+                alert("Vous pouvez utiliser ce mot de passe pour valider ce challenge (en majuscules) / You can use this password to validate this challenge (uppercase)");
+            }
+        }
+        else
+        {
+            alert("Nope, you're a naughty hacker.")
+        }
+    }
+}
+~~~~
+
+El usuario es GOD y la contraseña HIDDEN, para resolver el reto ponemos la contraseña HIDDEN
+
+
+Javascript - Obfuscation 1
+
+Objetivo : http://challenge01.root-me.org/web-client/ch4/ch4.html
+
+Nos sale un alert, le damos a cancelar , miramos en el código fuente
+
+~~~~
+<script type="text/javascript">
+              /* <![CDATA[ */
+
+              pass = '%63%70%61%73%62%69%65%6e%64%75%72%70%61%73%73%77%6f%72%64';
+              h = window.prompt('Entrez le mot de passe / Enter password');
+              if(h == unescape(pass)) {
+                  alert('Password accepté, vous pouvez valider le challenge avec ce mot de passe.\nYou an validate the challenge using this pass.');
+              } else {
+                  alert('Mauvais mot de passe / wrong password');
+              }
+
+              /* ]]> */
+          </script>
+~~~~
+
+Vemos que la contraseña es : pass = '%63%70%61%73%62%69%65%6e%64%75%72%70%61%73%73%77%6f%72%64';
+
+Para descubrir la contraseña hacemos lo siguiente :
+
+En inspeccionar, entramos en la pestaña consola :
+
+Escribimos 
+
+~~~~
+unescape(pass);
+~~~~
+
+Contraaseña : cpasbiendurpassword
+
+
+
+
+
