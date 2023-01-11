@@ -285,7 +285,7 @@ Vamos a escribir
 unescape(pass);
 ~~~~
 
-Contraaseña : cpasbiendurpassword
+Contraseña : cpasbiendurpassword
 
 
 
