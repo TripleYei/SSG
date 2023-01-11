@@ -279,7 +279,7 @@ Para descubrir la contraseña hacemos lo siguiente :
 
 En inspeccionar, entramos en la pestaña consola :
 
-Escribimos 
+Vamos a escribir
 
 ~~~~
 unescape(pass);
