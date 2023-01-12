@@ -377,3 +377,89 @@ Miramos en el Inspector, y tenemos lo siguiente :
 	<img src="files/pixel.png">
 </div>
 ~~~~
+
+Entonces en el objetivo : 
+
+~~~~
+
+http://natas2.natas.labs.overthewire.org/files/
+
+~~~~
+Vemos un archivo llamado : users.txt
+
+Dentro hay lo siguiente :
+
+~~~~
+
+
+# username:password
+alice:BYNdCesZqW
+bob:jw2ueICLvT
+charlie:G5vCxkVV3m
+natas3:G6ctbMJ5Nb4cbFwhpMPSvxGHhQ7I6W8Q
+eve:zo4mJWyNj2
+mallory:9urtcpzBmH
+
+~~~~
+
+Ya tenemos para poder acceder al otro nivel
+
+~~~
+Username: natas3
+URL:      http://natas3.natas.labs.overthewire.org
+~~~~
+Entramos en el objetivo anterior, en el alert:
+Usuario : natas3
+Contraseña : G6ctbMJ5Nb4cbFwhpMPSvxGHhQ7I6W8Q (del archivo users.txt)
+
+Natas Level 3 --> Level 4
+
+En el código fuente, tenemos la siguiente pista :
+
+~~~~
+
+<!-- No more information leaks!! Not even Google will find it this time... -->
+
+~~~~
+
+Con esa pista vamos a mirar los robots.txt
+
+~~~~
+http://natas3.natas.labs.overthewire.org/robots.txt
+~~~~
+
+Después de mirar los robots.txt
+~~~~
+User-agent: *
+Disallow: /s3cr3t/
+~~~~
+
+Al entrar al objetivo :
+
+~~~~
+
+http://natas3.natas.labs.overthewire.org/s3cr3t/
+
+~~~~
+
+Nos sale un archivo llamado users.txt
+
+Y ¡Felicidades ya lo tenemos !
+
+~~~~
+natas4:tKOcJIbzM4lTs8hbCmzn5Zr4434fGZQm
+~~~~
+
+Natas Level 3 --> Level 4
+
+El usuario 
+
+~~~~
+
+Username: natas4
+URL:      http://natas4.natas.labs.overthewire.org
+
+~~~~
+
+Y la contraseña anterior : tKOcJIbzM4lTs8hbCmzn5Zr4434fGZQm
+
