@@ -310,3 +310,60 @@ Miramos en el código fuente y tenemos :
 
 Contraseña : nZ^&@q5&sjJHev0
 
+
+## <a href="https://overthewire.org/wargames/natas/"> https://overthewire.org/wargames/natas/</a>
+
+Natas Level 0 
+
+Ponemos el usuario y la contraseña natas0
+~~~~
+
+Username: natas0
+Password: natas0
+URL:      http://natas0.natas.labs.overthewire.org
+
+~~~~
+
+Natas Level 0 --> Level 1
+
+Una vez dentro, de poner el usuario y la contraseña anterior.
+
+Miramos en el código fuente y tenemos :
+
+~~~~
+
+<!--The password for natas1 is g9D9cREhslqBKtcA2uocGHPfMZVzeFK6 -->
+
+~~~~
+
+Tenemos el siguiente objetivo :
+
+~~~~
+Username: natas1
+URL:      http://natas1.natas.labs.overthewire.org
+~~~~
+
+Dentro de la url anterior, ponemos en el alert, el usuario natas1 y la contraseña anterior.
+
+Natas Level 1 --> Level 2
+
+Miramos en el código fuente :
+
+~~~~
+
+<!--The password for natas2 is h4ubbcXrWqsTo7GGnnUMLppXbOogfBZ7 -->
+
+~~~~
+
+El objetivo 
+
+~~~~
+Username: natas2
+URL:      http://natas2.natas.labs.overthewire.org
+~~~~
+
+En la URL anterior, ponemos natas2 y la contraseña anterior.
+
+
+
+
