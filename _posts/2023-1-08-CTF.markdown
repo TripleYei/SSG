@@ -365,5 +365,15 @@ URL:      http://natas2.natas.labs.overthewire.org
 En la URL anterior, ponemos natas2 y la contraseña anterior.
 
 
+Natas Level 2 --> Level 3
 
+Miramos en el Inspector, y tenemos lo siguiente :
 
+~~~~
+
+<div id="content">
+	::bedore
+	There is nothing on this page
+	<img src="files/pixel.png">
+</div>
+~~~~
