@@ -42,7 +42,7 @@ Comparación de operadores : Comparison operators, strict equality
 
 Show first name and last name of patients who does not have allergies. (null)
 
-Mostrar el nombre y apellido de los paciente, quien no tiene alergias.
+Mostrar el nombre y apellido de los pacientes, quién no tiene alergias.
 
 ~~~~
 SELECT first_name,last_name FROM patients WHERE allergies IS NULL;
