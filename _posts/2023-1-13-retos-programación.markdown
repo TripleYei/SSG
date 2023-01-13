@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "CTF"
+title:  "Retos y Ejercicios de Programación"
 date:   2023-1-13
 categories: jekyll update
 ---
 
-# Retos y Ejercicios sobre programación
+# Vamos a empezar
 
 Voy a empezar a jugar con diferentes ejercicios y retos.
 
