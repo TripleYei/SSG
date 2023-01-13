@@ -463,3 +463,16 @@ URL:      http://natas4.natas.labs.overthewire.org
 
 Y la contraseña anterior : tKOcJIbzM4lTs8hbCmzn5Zr4434fGZQm
 
+
+## <a href="https://xss-game.appspot.com"> https://xss-game.appspot.com</a>
+
+Level 1 
+
+Ponemos lo siguiente en el campo de texto :
+
+~~~~
+<script>
+alert("hola");
+</script>
+~~~~
+
