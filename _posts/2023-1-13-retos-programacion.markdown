@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Retos y Ejercicios de Programación"
+title:  "Retos y Ejercicios de Programacion"
 date:   2023-1-13
 categories: jekyll update
 ---
