@@ -476,3 +476,15 @@ alert("hola");
 </script>
 ~~~~
 
+## <a href="http://www.xssgame.com"> http://www.xssgame.com</a>
+
+Foogle
+
+En el campo de texto :
+
+~~~~
+<script>
+alert("hola");
+</script>
+~~~~
+
