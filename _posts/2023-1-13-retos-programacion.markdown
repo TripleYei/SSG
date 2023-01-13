@@ -61,7 +61,7 @@ SELECT first_name from patients WHERE first_name LIKE "C%";
 
 ~~~~
 
-## Exercism <a href="https://exercism.org"> Ir a la web</a>
+## Exercism : <a href="https://exercism.org"> Ir a la web</a>
 
 Hola Mundo en PHP
 ~~~~
