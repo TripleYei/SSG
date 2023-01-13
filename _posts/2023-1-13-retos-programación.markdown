@@ -23,4 +23,17 @@ function myFunction(a, b) {
 
 ~~~~
 
-  
+Comparación de operadores : Comparison operators, strict equality
+~~~~
+  function  myFunction(a, b)
+  {
+      if( a === b) 
+      {
+         return true;
+       }  else 
+       {
+         return false;
+        }
+   }
+
+~~~~
