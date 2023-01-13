@@ -61,3 +61,32 @@ SELECT first_name from patients WHERE first_name LIKE "C%";
 
 ~~~~
 
+## Exercism <a href="https://exercism.org"> Ir a la web</a>
+
+Hola Mundo en PHP
+~~~~
+<?php
+
+function helloWorld($name="World"){
+    return "Hello, $name!";
+}
+
+
+?>
+
+~~~~
+
+Reverse String PHP 
+
+~~~~
+<?php
+
+declare(strict_types=1);
+
+function reverseString(string $text): string
+{
+    return strrev("$text");
+    throw new BadFunctionCallException("Please implement the reverseString method!");
+}
+
+~~~~
