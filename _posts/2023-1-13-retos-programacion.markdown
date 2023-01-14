@@ -187,4 +187,25 @@ Consulta de todas las columnas de la tabla ciudad, donde ID es 1661
 SELECT * FROM CITY WHERE ID = "1661";
 ~~~~
 
+Query all attributes of every Japanese city in the CITY table. The COUNTRYCODE for Japan is JPN. 
+
+Consulta de todos los atributos para ciudad Japonsa de la tabla ciudad. El código postal para Japón es JPN
+
+~~~~
+SELECT * FROM CITY WHERE COUNTRYCODE = "JPN";
+~~~~
+
+
+Query the names of all the Japanese cities in the CITY table. The COUNTRYCODE for Japan is JPN. 
+
+Consulta de los nombres de todas las ciudades japonesas de la tabla ciudad. El Código del pais para Japón es JPN
+
+~~~~
+SELECT NAME FROM CITY WHERE COUNTRYCODE = "JPN";
+~~~~
+
+
+
+
+
 
