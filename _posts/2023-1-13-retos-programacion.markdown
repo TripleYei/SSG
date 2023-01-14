@@ -178,3 +178,13 @@ Consulta de todas las columnas para cada fila de la tabla ciudad.
 SELECT * FROM CITY ;
 ~~~~
 
+
+Query all columns for a city in CITY with the ID 1661.
+
+Consulta de todas las columnas de la tabla ciudad, donde ID es 1661
+
+~~~~
+SELECT * FROM CITY WHERE ID = "1661";
+~~~~
+
+
