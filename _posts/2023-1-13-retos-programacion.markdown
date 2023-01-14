@@ -61,6 +61,11 @@ SELECT first_name from patients WHERE first_name LIKE "C%";
 
 ~~~~
 
+Show first name, last name, and gender of patients who's gender is 'M'
+Mostrar nombre, apellido, y genero del paciente, genero es M
+
+SELECT first_name,last_name,gender from patients WHERE gender="M";
+
 ## Exercism : <a href="https://exercism.org"> Ir a la web</a>
 
 Hola Mundo en PHP
