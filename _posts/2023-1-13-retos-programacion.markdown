@@ -143,4 +143,26 @@ fclose($handle);
 
 ~~~~
 
+SQL 
 
+Revising the Select Query I
+
+Query all columns for all American cities in the CITY table with populations larger than 100000. The CountryCode for America is USA.
+
+The CITY table is described as follows: 
+
+Consulta de todas las columnas de las ciudades americanas en la tabla ciudad , con población mayor a 100000. El código del país americano es USA
+
+~~~~
+SELECT * FROM CITY WHERE POPULATION > 100000 AND COUNTRYCODE = "USA";
+~~~~
+
+
+Revising the Select Query II
+
+Query the NAME field for all American cities in the CITY table with populations larger than 120000. The CountryCode for America is USA. 
+
+Consulta del campo nombre de todas las ciudades de américa en la tabla ciudad con mayor población 120000. El código del pais para américa es USA
+~~~~
+SELECT NAME FROM CITY WHERE POPULATION > 120000 AND COUNTRYCODE = "USA";
+~~~~
