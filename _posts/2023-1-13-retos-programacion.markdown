@@ -69,6 +69,13 @@ Mostrar nombre, apellido, y genero del paciente, genero es M
 SELECT first_name,last_name,gender from patients WHERE gender="M";
 ~~~~
 
+Show first name and last name of patients that weight within the range of 100 to 120 (inclusive)
+
+Mostrar nombre y apellido del paciente, el peso sea entre 100 y 120
+~~~~
+SELECT first_name,last_name from patients WHERE weight between 100 AND 120;
+~~~~
+
 ## Exercism : <a href="https://exercism.org"> Ir a la web</a>
 
 Hola Mundo en PHP
