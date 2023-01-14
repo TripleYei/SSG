@@ -76,6 +76,13 @@ Mostrar nombre y apellido del paciente, el peso sea entre 100 y 120
 SELECT first_name,last_name from patients WHERE weight between 100 AND 120;
 ~~~~
 
+Update the patients table for the allergies column. If the patient's allergies is null then replace it with 'NKA'
+
+Actualizar la tabla pacientes, columna alergias. Si el paciente alérgico es nulo reemplza con "NKA"
+~~~~
+UPDATE patients SET  allergies = "NKA" where allergies is NULL;
+~~~~
+
 ## Exercism : <a href="https://exercism.org"> Ir a la web</a>
 
 Hola Mundo en PHP
