@@ -166,3 +166,15 @@ Consulta del campo nombre de todas las ciudades de américa en la tabla ciudad c
 ~~~~
 SELECT NAME FROM CITY WHERE POPULATION > 120000 AND COUNTRYCODE = "USA";
 ~~~~
+
+
+Select All
+
+Query all columns (attributes) for every row in the CITY table.
+
+Consulta de todas las columnas para cada fila de la tabla ciudad.
+
+~~~~
+SELECT * FROM CITY ;
+~~~~
+
