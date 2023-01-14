@@ -206,6 +206,15 @@ SELECT NAME FROM CITY WHERE COUNTRYCODE = "JPN";
 
 
 
+Query a list of CITY and STATE from the STATION table. 
+
+Cosulta de una lista de ciudad y estado de la tabla estación
+
+~~~~
+SELECT CITY,STATE FROM STATION ;
+~~~~
+
+
 
 
 
