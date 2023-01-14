@@ -7,7 +7,7 @@ categories: jekyll update
 
 # Vamos a empezar
 
-Voy a empezar a jugar con diferentes ejercicios y retos.
+Voy a jugar con diferentes ejercicios y retos.
 
 ## JSchallenger <a href="https://www.jschallenger.com/"> Ir a la web</a>
 
