@@ -134,6 +134,23 @@ hello();
 ~~~~
 
 
+Java Hello World --> Hola Mundo
+
+~~~~
+class Greeter {
+
+    String getGreeting() {
+        return "Hello, World!";
+    }
+  public static void main(String[]args){
+      Greeter n = new Greeter();
+      System.out.println(n.getGreeting());
+}
+
+      
+  }
+
+~~~~
 
 ## HackerRank : <a href="https://www.hackerrank.com">Ir a la web</a>
 
