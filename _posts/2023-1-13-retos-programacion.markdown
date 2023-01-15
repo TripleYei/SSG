@@ -124,6 +124,16 @@ function reverseString(string $text): string
 
 ~~~~
 
+JavaScript Hello World --> Hola Mundo
+
+~~~~
+export function hello() {
+  return 'Hello, World!';
+}
+hello();
+~~~~
+
+
 
 ## HackerRank : <a href="https://www.hackerrank.com">Ir a la web</a>
 
