@@ -38,6 +38,17 @@ Comparación de operadores : Comparison operators, strict equality
 
 ~~~~
 
+Get type of value : obtener el tipo del valor
+
+~~~~
+
+function myFunction(a)
+{
+
+   return typeof a;
+}
+~~~~
+
 ## Practicar SQL online : <a href="https://www.sql-practice.com/"> Ir a la web</a>
 
 Show first name and last name of patients who does not have allergies. (null)
