@@ -132,7 +132,7 @@ Miramos en el código fuente :
 <!-- Here's the first part of the flag: picoCTF{t -->
 ~~~~
 
-Miras en el código css : mycss.css
+Miramos en el código css : mycss.css
 
 ~~~~
 
