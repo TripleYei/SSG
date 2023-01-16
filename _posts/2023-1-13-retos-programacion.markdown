@@ -253,6 +253,14 @@ SELECT CITY,STATE FROM STATION ;
 ~~~~
 
 
+Query a list of CITY names from STATION for cities that have an even ID number. Print the results in any order, but exclude duplicates from the answer.
+
+Consulta de nombres de ciudades de cada ciudad de un estacion con ID positivo, muestra los resultados en orden y excluye duplicados.
+
+~~~~
+SELECT DISTINCT  CITY FROM STATION WHERE  MOD(ID,2) = 0;
+~~~~
+
 
 Java 
 
