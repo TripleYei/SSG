@@ -231,6 +231,37 @@ Y encontramos la siguiente bandera
 picoCTF{b1scu1ts_4nd_gr4vy_f0668f62}
 ~~~~
 
+
+## Category : Forensics
+
+Information.
+
+Descargamos la imagen llamada cat.jpg
+
+Vemos los metadatos de esta imagen, vamos a usar esta herramienta online
+
+https://www.metadata2go.com/
+
+Encontramos en la licencia de la imagen lo siguiente :
+
+~~~~
+
+cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9
+
+~~~~
+
+Ahora, vamos a decodificar 
+
+Buscamos esta herramienta online de base 64
+
+https://www.base64decode.org/
+
+Ponemos el código anterior, y encontramos lo siguiente :
+
+~~~~
+picoCTF{the_m3tadata_1s_modified}
+~~~~
+
 ## <a href="https://www.root-me.org">https://www.root-me.org</a>
 
 ## Challenges : Web - Client
