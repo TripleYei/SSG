@@ -296,9 +296,11 @@ Leer por teclado y mostrar, un string, integer y double.
 ~~~~
 import java.util.Scanner;
 
-public class Solution {
+public class Solution
+{
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         Scanner scan = new Scanner(System.in);
         int i = scan.nextInt();
         double d = scan.nextDouble();
