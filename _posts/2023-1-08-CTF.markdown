@@ -189,6 +189,27 @@ picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_fa04427c}
 ~~~~
 
 
+## Category : Cryptography
+
+Mod 26
+
+Objetivo : cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_hyLicInt}
+
+Usamos una herramienta para decodificar el ROT13
+
+Vamos a usar esta herramienta online :
+
+https://cryptii.com/pipes/rot13-decoder
+
+Le ponemos el objetivo, y tenemos ya la bandera :
+
+~~~~
+picoCTF{next_time_I'll_try_2_rounds_of_rot13_ulYvpVag}
+~~~~
+
+
+
+
 
 ## <a href="https://www.root-me.org">https://www.root-me.org</a>
 
