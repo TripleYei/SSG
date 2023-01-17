@@ -220,6 +220,16 @@ Lo abrimos con un bloc de notas y dentro tenemos
 picoCTF{s4n1ty_v3r1f13d_2fd6ed29}
 ~~~~
 
+Wave a flag :
+
+Descargamos el archivo llamado warm
+
+Dentro del bloc de notas, le damos a buscar y ponemos : pico
+
+Y encontramos la siguiente bandera
+~~~~
+picoCTF{b1scu1ts_4nd_gr4vy_f0668f62}
+~~~~
 
 ## <a href="https://www.root-me.org">https://www.root-me.org</a>
 
