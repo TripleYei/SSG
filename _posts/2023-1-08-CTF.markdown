@@ -208,7 +208,17 @@ picoCTF{next_time_I'll_try_2_rounds_of_rot13_ulYvpVag}
 ~~~~
 
 
+## Category : General Skills
 
+Obedient Cat.
+
+Descargamos el archivo llamado flag.
+
+Lo abrimos con un bloc de notas y dentro tenemos
+
+~~~~
+picoCTF{s4n1ty_v3r1f13d_2fd6ed29}
+~~~~
 
 
 ## <a href="https://www.root-me.org">https://www.root-me.org</a>
