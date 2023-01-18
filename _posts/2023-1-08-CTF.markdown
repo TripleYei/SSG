@@ -258,7 +258,7 @@ Y encontramos la siguiente bandera
 picoCTF{b1scu1ts_4nd_gr4vy_f0668f62}
 ~~~~
 
-## Category : General Skills
+
 
 2Warm
 
@@ -275,7 +275,6 @@ Para poder, resolver el reto, hacemos lo siguiente :
 picoCTF{101010}
 ~~~~
 
-## Category : General Skills
 
 Warmed Up
 
@@ -286,7 +285,7 @@ picoCTF{61}
 ~~~~
 
 
-## Category : General Skills
+
 
 Bases
 
