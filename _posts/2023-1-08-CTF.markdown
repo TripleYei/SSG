@@ -188,6 +188,19 @@ picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_fa04427c}
 
 ~~~~
 
+## Category : Web Exploitation
+
+Objetivo : http://mercury.picoctf.net:34561/
+
+Vamos a usar una herramienta online, para ver las cabeceras HTTP
+
+https://wtools.io/check-headers-online
+
+Le ponemos el objetivo, y tenemos :
+
+~~~~
+picoCTF{r3j3ct_th3_du4l1ty_8f878508}
+~~~~
 
 ## Category : Cryptography
 
