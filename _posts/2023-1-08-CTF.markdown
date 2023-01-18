@@ -286,6 +286,28 @@ picoCTF{61}
 ~~~~
 
 
+## Category : General Skills
+
+Bases
+
+Objetivo : bDNhcm5fdGgzX3IwcDM1
+
+Usamos una herramienta online, para decodificar base64
+
+https://www.base64decode.org/
+
+Ponemos el código anterior, y conseguimos :
+
+~~~~
+l3arn_th3_r0p35
+~~~~
+
+Ahora solo falta :
+
+~~~~
+picoCTF{l3arn_th3_r0p35}
+~~~~
+
 
 ## Category : Forensics
 
