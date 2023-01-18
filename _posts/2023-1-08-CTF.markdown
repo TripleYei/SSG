@@ -220,6 +220,20 @@ Le ponemos el objetivo, y tenemos ya la bandera :
 picoCTF{next_time_I'll_try_2_rounds_of_rot13_ulYvpVag}
 ~~~~
 
+13
+
+Objetivo : cvpbPGS{abg_gbb_onq_bs_n_ceboyrz}
+
+Usamos una herramienta online, para decodificar el ROT13
+
+https://cryptii.com/pipes/rot13-decoder
+
+Ponemos el objetivo, y el resultado es :
+
+~~~~
+picoCTF{not_too_bad_of_a_problem}
+~~~~
+
 
 ## Category : General Skills
 
