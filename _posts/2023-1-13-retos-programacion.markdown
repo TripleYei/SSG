@@ -320,4 +320,27 @@ public class Solution
 ~~~~
 
 
+Java Loops I
+
+~~~~
+import java.io.*;
+import java.util.*;
+
+public class Solution {
+    public static void main(String[] args) throws IOException {
+        
+        Scanner sc = new Scanner (System.in);
+        int tabla_multiplicar = sc.nextInt();
+        
+        for( int i = 1; i<=10; i++){
+            
+            System.out.println( tabla_multiplicar + " x " + i + " = " + tabla_multiplicar*i);
+            
+        }
+
+       
+    }
+}
+
+~~~~
 
