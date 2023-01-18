@@ -244,6 +244,34 @@ Y encontramos la siguiente bandera
 picoCTF{b1scu1ts_4nd_gr4vy_f0668f62}
 ~~~~
 
+## Category : General Skills
+
+2Warm
+
+Pasar el número 42 a binario
+
+Resultado 
+~~~~
+101010
+~~~~
+
+Para poder, resolver el reto, hacemos lo siguiente :
+
+~~~~
+picoCTF{101010}
+~~~~
+
+## Category : General Skills
+
+Warmed Up
+
+0x3D (hexadecimal) pasarlo a decimal
+
+~~~~
+picoCTF{61}
+~~~~
+
+
 
 ## Category : Forensics
 
