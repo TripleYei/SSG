@@ -446,6 +446,22 @@ picoCTF{p}
 ~~~~
 
 
+what's a net cat?
+
+Objetivo: jupiter.challenges.picoctf.org port:41120
+
+Vamos a usar un plugin de Chrome, llamado Netcat
+
+Le ponemos hostname : jupiter.challenges.picoctf.org
+
+port : 41120
+
+Y connect
+
+Resultado de la bandera
+~~~~
+picoCTF{nEtcat_Mast3ry_3214be47}
+~~~~
 
 ## Category : Forensics
 
