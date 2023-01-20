@@ -190,6 +190,8 @@ picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_fa04427c}
 
 ## Category : Web Exploitation
 
+GET aHEAD
+
 Objetivo : http://mercury.picoctf.net:34561/
 
 Vamos a usar una herramienta online, para ver las cabeceras HTTP
