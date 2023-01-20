@@ -202,6 +202,34 @@ Le ponemos el objetivo, y tenemos :
 picoCTF{r3j3ct_th3_du4l1ty_8f878508}
 ~~~~
 
+
+## Category : Web Exploitation
+
+Cookies
+
+Ponemos lo siguiente :
+~~~~
+snickerdoodle
+~~~~
+
+Podemos usar en inspeccionar , Almacenamiento, Cookies y ir cambiando el valor
+
+O podemos usar un plugin llamado Cookie Quick Manager
+
+Ponemos el siguiente valor :
+
+~~~~
+18
+~~~~
+
+Se recarga la web, y conseguimos :
+
+~~~~
+picoCTF{3v3ry1_l0v3s_c00k135_a1f5bdb7}
+~~~~
+
+
+
 ## Category : Cryptography
 
 Mod 26
