@@ -284,7 +284,7 @@ split*6, split*7) == '706c')
 Si lo juntamos, se forma la siguiente bandera
 
 ~~~~
-picoCTF{no_clients_plz_b7065}
+picoCTF{no_clients_plz_b706c5}
 ~~~~
 
 ## Category : Cryptography
