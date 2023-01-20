@@ -424,6 +424,29 @@ picoCTF{l3arn_th3_r0p35}
 ~~~~
 
 
+Lets Warm Up
+
+
+0x70 (hexadecimal) a ASCII
+
+Usamos esta herramienta online:
+
+https://www.calculators.tech/hex-to-ascii
+
+Nos da :
+~~~~
+p
+~~~~
+
+
+La bandera es la siguiente :
+
+~~~~
+picoCTF{p}
+~~~~
+
+
+
 ## Category : Forensics
 
 Information.
