@@ -332,7 +332,7 @@ Descargamos el archivo values :
 
 Es un RSA.
 
-Vamos a decodificar con esa herramienta online:
+Vamos a decodificar con esta herramienta online:
 
 https://www.dcode.fr/rsa-cipher
 
