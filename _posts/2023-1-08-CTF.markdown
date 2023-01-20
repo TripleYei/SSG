@@ -326,6 +326,30 @@ Ponemos el objetivo, y el resultado es :
 picoCTF{not_too_bad_of_a_problem}
 ~~~~
 
+Mind your Ps and Qs
+
+Descargamos el archivo values :
+
+Es un RSA.
+
+Vamos a decodificar con esa herramienta online:
+
+https://www.dcode.fr/rsa-cipher
+
+~~~~
+c: 861270243527190895777142537838333832920579264010533029282104230006461420086153423
+n: 1311097532562595991877980619849724606784164430105441327897358800116889057763413423
+e: 6553
+~~~~
+Después de poner, en cada casilla de la herramienta anterior, poner el código c, n, e
+
+Conseguimos la bandera :
+
+~~~~
+picoCTF{sma11_N_n0_g0od_13686679}
+~~~~
+
+
 
 ## Category : General Skills
 
