@@ -273,12 +273,19 @@ Si, nos fijamos, podemos sacar lo siguiente :
 
 
 (0, split) == 'pico'
+
 split, split*2) == 'CTF{')
-split*2, split*3) == 'no_c'
+
+split*2, split*3) == 'no_c')
+
 split*3, split*4) == 'lien')
+
 split*4, split*5) == 'ts_p')
+
 (split*5, split*6) == 'lz_b')
+
 split*6, split*7) == '706c')
+
 (split*7, split*8) == '5}')
 
 Si lo juntamos, se forma la siguiente bandera
