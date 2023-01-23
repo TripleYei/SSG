@@ -58,3 +58,11 @@ Al hacer clic en la imagen, veras un efecto circular
 
 ## Error 404 con HTML y CSS
 <a href="https://tripleyei.github.io/404_error/">Error 404</a>
+
+## Patrón de fondo con HTML y CSS
+
+<a href="https://tripleyei.github.io/patron_de_fondo/">Acceder al patron</a>
+
+## Efecto de scroll fijo de fondo
+
+<a href="https://tripleyei.github.io/fondo_fijo/"> Acceder al efecto</a>
