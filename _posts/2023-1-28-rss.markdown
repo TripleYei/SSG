@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Leer RSS con JavaScript"
+date:   2023-1-28
+categories: jekyll update
+---
+
+## Leer RSS con JavaScript
+
+Por aqui, dejo leer un RSS con JavaScript.
+
+<a href="https://tripleyei.github.io/rss_reader/" target="_blank">Leer un RSS</a>
