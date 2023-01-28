@@ -7,7 +7,7 @@ categories: jekyll update
 
 ## Leer RSS con JavaScript
 
-Se lee este archivo RSS feed, https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml , como vemos es un archivo xml.
+Se lee este archivo RSS feed, <a href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml">Ir al archivo</a> , como vemos es un archivo xml.
 
 Al darle en el enlace , nos manda a la noticia.
 
