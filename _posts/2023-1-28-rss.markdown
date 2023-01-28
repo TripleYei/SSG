@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Leer RSS con JavaScript"
+title:  "Leer un RSS con JavaScript"
 date:   2023-1-28
 categories: jekyll update
 ---
