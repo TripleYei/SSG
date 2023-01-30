@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Uso de CURL con PHP, donde se usa API de pruebas"
+date:   2023-1-28
+categories: jekyll update
+---
+
+
+# CURL PHP
+
+Se usa la siguiente API :
+
+~~~~
+https://jsonplaceholder.typicode.com/users
+~~~~
+
+
+Enlace : <a href="https://github.com/TripleYei/curl_php">Acceder</a>
