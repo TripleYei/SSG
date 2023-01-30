@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Uso de CURL con PHP, donde se usa API de pruebas"
-date:   2023-1-28
+date:   2023-1-30
 categories: jekyll update
 ---
 
