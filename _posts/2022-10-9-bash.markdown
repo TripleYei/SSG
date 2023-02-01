@@ -18,3 +18,7 @@ Automatización del comando Whois
 Automatización del comando Ping
 
 <a href="https://github.com/TripleYei/ping-bash"> Ir al Github</a>
+
+Automatización de las herramientas nmap, netcat
+
+<a href="https://github.com/TripleYei/security-bash">Ir al GitHub</a>
