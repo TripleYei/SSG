@@ -8,7 +8,7 @@ categories: jekyll update
 
 # PWA
 
-Las PWA son aplicaciones progresivas, son aplicaciones web que se pueden instalar en el dispositivo móvi, desde el navegador.
+Las PWA son aplicaciones progresivas, son aplicaciones web que se pueden instalar en el dispositivo móvil, desde el navegador.
 
 ## Angular
 
