@@ -5,7 +5,7 @@ date:   2023-2-3
 categories: jekyll update
 ---
 
-# Json con Angular
+# JSON con Angular
 
 
 Se lee un archivo JSON, donde dentro tiene imágenes y textos, donde se usa un componente , servicio, modelo en el proyecto Angular, es el uso de una API en Angular.
