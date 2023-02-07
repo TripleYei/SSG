@@ -17,6 +17,8 @@ Server Side Rendering, sus beneficios son el SEO, mostrar más rápido la web et
 ng add @nguniversal/express-engine
 ~~~~
 
+Dentro de un componente, tiene código HTML y CSS , para un efecto de botones.
+
 
 <a href="https://angularuniversal.netlify.app/">Acceder</a>
 
