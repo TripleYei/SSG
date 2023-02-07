@@ -13,6 +13,10 @@ Uso dentro del framework , el llamado Angular Universal , que permite que aplica
 
 Server Side Rendering, sus beneficios son el SEO, mostrar más rápido la web etc
 
+~~~~
+ng add @nguniversal/express-engine
+~~~~
+
 
 <a href="https://angularuniversal.netlify.app/">Acceder</a>
 
