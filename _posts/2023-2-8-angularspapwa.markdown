@@ -9,6 +9,6 @@ categories: jekyll update
 # SPA Y PWA con Angular.
 
 
-El uso de la SPA, al pulsar en un enlace no se recarga la web, y el uso de la PWA, que se puede instalar en el dispositivo móvil.
+El uso de la SPA, al pulsar en un enlace no se recarga la web, y el uso de la PWA, se puede instalar en el dispositivo móvil.
 
 <a href="https://angularspapwa.netlify.app/">Acceder</a>
