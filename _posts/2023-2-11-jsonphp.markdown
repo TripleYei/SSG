@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "JSON PHP"
+date:   2023-2-11
+categories: jekyll update
+---
+
+
+## Convertir a JSON en PHP
+
+
+Un objeto se convierte a JSON.
+
+<a href="https://github.com/TripleYei/json_php"> Acceder</a>
