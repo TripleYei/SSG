@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "NodeJS, Uso de Express para obtener un JSON"
-date:   2023-2-8
+date:   2023-2-12
 categories: jekyll update
 ---
 
