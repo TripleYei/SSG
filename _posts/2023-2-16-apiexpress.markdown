@@ -9,7 +9,7 @@ categories: jekyll update
 
 Creamos una API con Express :
 
-Donde al acceder al :
+Donde al acceder  :
 
 localhost:3000
 
