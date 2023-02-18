@@ -56,7 +56,7 @@ Creamos un modelo, donde ponemos :
 
 Ejemplo : ejemplo.model.ts
 
-DEPENDE DE LA API, en este caso la API tiene los campos id,name y url
+Depende de la API, en este caso la API tiene los campos id,name y url
 ~~~~
 id:string;
 name:string;
