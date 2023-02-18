@@ -15,7 +15,7 @@ Creamos el proyecto
 ng new app
 ~~~~
 
-En Routing le decimos que yes, y con CSS
+En Routing le decimos y (yes), y con CSS
 
 Creamos un componente
 
