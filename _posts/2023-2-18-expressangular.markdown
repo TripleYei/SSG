@@ -7,7 +7,7 @@ categories: jekyll update
 ---
 
 
-## Vamos a consumir una API con Angular en local
+## Consumir una API con Angular en local
 
 Creamos el proyecto 
 
