@@ -35,7 +35,22 @@ ng generate service Servicios/data
 ~~~~
 
 Dentro del servicio necesitamos el HttpClient y el modelo
+~~~~
 Aqui es donde ponemos : api = "http://localhost:3000/yei";
+~~~~
+
+NOTA : Al conectar front con back, nos saldrá un error de CORS.
+
+Lo solucionamos así :
+~~~~
+npm install cors
+~~~~
+
+<a href="https://github.com/TripleYei/angular_express/blob/main/web.js"> Acceder al código </a>
+
+
+
+
 
 Creamos un modelo, donde ponemos :
 
