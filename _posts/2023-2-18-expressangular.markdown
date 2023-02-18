@@ -35,7 +35,7 @@ ng generate service Servicios/data
 ~~~~
 
 Dentro del servicio necesitamos el HttpClient y el modelo
-Aqui es donde ponemos : api = "http://localhost:3000/nombre";
+Aqui es donde ponemos : api = "http://localhost:3000/yei";
 
 Creamos un modelo, donde ponemos :
 
