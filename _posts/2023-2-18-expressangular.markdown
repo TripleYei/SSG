@@ -58,8 +58,9 @@ app.component.html
 
 ponemos el component que creamos
 
+~~~~
 <app-inicio></app-inicio>
 <router-outlet> </router-outlet>
-
+~~~~
 
 
