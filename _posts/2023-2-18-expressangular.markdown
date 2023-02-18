@@ -65,7 +65,8 @@ url:string;
 
 En el app.module.ts 
 
-Se importa el servicio y se pone en providers
+Se importa el servicio y se pone en providers.
+
 También el HttpClient se pone en imports
 
 
