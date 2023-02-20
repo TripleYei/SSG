@@ -1,5 +1,6 @@
 # Blog creado con Jekyll
 
+Es donde voy poniendo, diferentes cosas que voy haciendo, para así ver como voy avanzando.
 
 ## Enlace
 
