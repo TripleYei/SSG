@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-## Capacitor 
+# Capacitor 
 
 Es el uso de Capacitor para poder convertir una web Angular a una aplicación móvil, donde en este caso usamos el proyecto Angular Material , para poder crear una aplicación móvil
 
