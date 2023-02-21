@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Uso de Capacitor en una web con Angular"
-date:   2023-2-21
+date:   2023-02-21
 categories: jekyll update
 ---
 
