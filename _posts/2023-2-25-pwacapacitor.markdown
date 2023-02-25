@@ -10,6 +10,6 @@ categories: jekyll update
 
 Es una prueba de una creación de PWA con capacitor.
 
-Por aquí dejo un ejemplo :
+Por aquí dejo un ejemplo:
 
 <a href="https://github.com/TripleYei/pwa_capacitor"> Acceder </a>
