@@ -14,3 +14,4 @@ Tenemos una aplicación web Angular y con capacitor se convierte a móvil.
 Aqui dejo un ejemplo :
 
 <a href="https://github.com/TripleYei/angular_capacitor"> Acceder</a>
+
