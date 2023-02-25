@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-# Crear PWA con Capacitor.
+## Crear PWA con Capacitor.
 
 Es una prueba de una creación de PWA con capacitor.
 
