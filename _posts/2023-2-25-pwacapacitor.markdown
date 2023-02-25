@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Creación de una PWA con Capacitor"
-date:   2023-02-25
+date:   2023-2-25
 categories: jekyll update
 ---
 
