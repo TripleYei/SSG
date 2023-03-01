@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Se crea aplicaciónd de Escritorio con Electron"
+title:  "Se crea aplicación de Escritorio con Electron"
 date:   2023-3-1
 categories: jekyll update
 ---
