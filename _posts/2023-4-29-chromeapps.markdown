@@ -31,10 +31,33 @@ categories: jekyll update
 # Se crea un script.js
 
 ~~~~
+chrome.app.runtime.onLaunched.addListener(function() {
+  
+    chrome.app.window.create('index.html' , {
+    
+          'outerBounds' : {
+              'width': 400,
+               'height': 500
+          }
+      });
 
+
+});
 
 ~~~~
 
 
 # Se crea código HTML
 
+~~~~
+<!DOCTYPE html>
+<head>
+    <title>Creación de una extensión</title>
+</head>
+<body>
+  <h1>Felicidades</h1>
+</body>
+
+
+</html>
+~~~~
