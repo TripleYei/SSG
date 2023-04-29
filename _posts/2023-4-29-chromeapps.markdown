@@ -57,8 +57,6 @@ chrome.app.runtime.onLaunched.addListener(function() {
 <body>
   <h1>Felicidades</h1>
 </body>
-
-
 </html>
 ~~~~
 
