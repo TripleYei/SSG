@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Creación de extensiones en Chrome"
+title:  "Creación de Extensiones en Chrome"
 date:   2023-04-29
 categories: jekyll update
 ---
