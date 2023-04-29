@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-# Crear Extensiones con HTML y JavaScript
+## Crear Extensiones con HTML y JavaScript
 
 # Vamos a necesitar un manifest.json
 
