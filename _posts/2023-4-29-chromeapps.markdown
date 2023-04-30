@@ -19,7 +19,7 @@ categories: jekyll update
    "app": {
        "background": {
        
-            "scripts": ["script.js"]
+            "scripts": ["background.js"]
         }
    
    }
@@ -28,7 +28,7 @@ categories: jekyll update
 
 ~~~~
 
-# Se crea un script.js
+# Se crea un background.js
 
 ~~~~
 chrome.app.runtime.onLaunched.addListener(function() {
