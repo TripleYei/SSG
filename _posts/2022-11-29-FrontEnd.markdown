@@ -74,3 +74,11 @@ Al hacer clic en la imagen, veras un efecto circular
 ## Galería de imágenes con HTML Y CSS
 
 <a href="https://tripleyei.github.io/Gallery_CSS/"> Acceder</a>
+
+## Logo con HTML y CSS
+
+<a href="https://tripleyei.github.io/logo_effect/">Acceder</a>
+
+## Texto hover
+
+<a href="https://tripleyei.github.io/text_effect/">Acceder</a>
