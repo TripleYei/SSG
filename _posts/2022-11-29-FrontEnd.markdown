@@ -87,3 +87,6 @@ Al hacer clic en la imagen, veras un efecto circular
 
 <a href="https://tripleyei.github.io/radial-gradient_css/">Acceder</a>
 
+## Clip-path en css, para las imágenes.
+
+<a href="https://tripleyei.github.io/clip-path_css/">Acceder</>
