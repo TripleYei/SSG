@@ -90,3 +90,7 @@ Al hacer clic en la imagen, veras un efecto circular
 ## Clip-path en css, para las imágenes.
 
 <a href="https://tripleyei.github.io/clip-path_css/">Acceder</a>
+
+## mask-image en CSS :
+
+<a href="https://tripleyei.github.io/mask-image_css/">Acceder</a>
