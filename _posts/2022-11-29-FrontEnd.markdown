@@ -94,3 +94,7 @@ Al hacer clic en la imagen, veras un efecto circular
 ## mask-image en CSS :
 
 <a href="https://tripleyei.github.io/mask-image_css/">Acceder</a>
+
+## mix-blend-mode en CSS
+
+<a href="https://tripleyei.github.io/mix-blend-mode_css/">Acceder</a>
