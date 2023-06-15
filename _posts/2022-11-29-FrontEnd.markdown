@@ -98,3 +98,7 @@ Al hacer clic en la imagen, veras un efecto circular
 ## mix-blend-mode en CSS
 
 <a href="https://tripleyei.github.io/mix-blend-mode_css/">Acceder</a>
+
+## Uso del framework tailwind :
+
+<a href="https://tripleyei.github.io/tailwind_css/">Acceder</>
