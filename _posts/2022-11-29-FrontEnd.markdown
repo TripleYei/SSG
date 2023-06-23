@@ -102,3 +102,7 @@ Al hacer clic en la imagen, veras un efecto circular
 ## Uso del framework tailwind 
 
 <a href="https://tripleyei.github.io/tailwind_css/">Acceder</a>
+
+## Grid, uso de paleta de colores
+
+<a href="https://tripleyei.github.io/grid_css/">Acceder</a>
