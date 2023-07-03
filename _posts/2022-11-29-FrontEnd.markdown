@@ -106,3 +106,8 @@ Al hacer clic en la imagen, veras un efecto circular
 ## Grid, paleta de colores
 
 <a href="https://tripleyei.github.io/grid_css/">Acceder</a>
+
+
+## Canvas
+
+<a href="https://tripleyei.github.io/canvas/">Acceder</a>
