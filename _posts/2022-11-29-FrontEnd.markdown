@@ -111,3 +111,7 @@ Al hacer clic en la imagen, veras un efecto circular
 ## Canvas
 
 <a href="https://tripleyei.github.io/canvas/">Acceder</a>
+
+## Uso de HTML Y CSS
+
+<a href="https://tripleyei.github.io/blog_css/">Acceder</a> 
