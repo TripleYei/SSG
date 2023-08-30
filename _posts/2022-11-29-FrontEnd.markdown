@@ -128,6 +128,6 @@ Al hacer clic en la imagen, veras un efecto circular
 
 <a href="https://tripleyei.github.io/header_effect/">Acceder</a>
 
-## Efeto Menú
+## Efecto Menú
 
 <a href="https://tripleyei.github.io/menu_effect/">Acceder</a>
