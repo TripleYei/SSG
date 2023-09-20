@@ -490,3 +490,13 @@ is Odd or Even
 	
 }
 ~~~~
+
+Get Opposite
+
+~~~~
+  function findOpposite(num) {
+	if(num < 0)
+            return -num
+            return -num
+}
+~~~~
