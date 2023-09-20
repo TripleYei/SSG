@@ -468,3 +468,14 @@ class Solution{
 	}
 }
 ~~~~
+
+
+## Codict. App programación.
+
+Sum two Numbers.
+~~~~~~
+function sumTwoNumbers(a,b) {
+	return a+b
+}
+
+~~~~~~
