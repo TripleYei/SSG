@@ -479,3 +479,14 @@ function sumTwoNumbers(a,b) {
 }
 
 ~~~~~~
+
+is Odd or Even
+
+~~~~
+  function isOddOrEven(num) {
+	if(num % 2 == 0)
+		return "Even"
+		return "Odd"
+	
+}
+~~~~
