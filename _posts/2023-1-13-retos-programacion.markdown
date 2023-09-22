@@ -512,12 +512,42 @@ Triangle Area
 
 Sum of Positive Numbers
 
-~~~~~
+~~~~
    function positiveSum(arr) {
 	let sum = 0
 	for(let i = 0; i < arr.length; i++)
             if(arr[i] > 0)
 		sum+=arr[i]
 		return sum
+}
+~~~~
+
+Age to Days
+
+~~~~
+   function ageToDays(age){
+	return age*365
+}
+~~~~
+
+Turn to negative
+
+~~~~
+  function turnToNegative(num){
+	if(num > 0)
+           return -num
+           return num
+	   return 0
+}
+~~~~
+
+Find John
+
+~~~~
+    function findJohn(arr){
+	for(let i = 0; i<arr.length; i++)
+	    if(arr[i] == "John)
+		return true
+		return false 
 }
 ~~~~
