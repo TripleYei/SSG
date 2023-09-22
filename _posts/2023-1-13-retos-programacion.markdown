@@ -546,7 +546,7 @@ Find John
 ~~~~
     function findJohn(arr){
 	for(let i = 0; i<arr.length; i++)
-	    if(arr[i] == "John)
+	    if(arr[i] == "John")
 		return true
 		return false 
 }
