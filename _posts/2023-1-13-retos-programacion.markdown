@@ -551,3 +551,21 @@ Find John
 		return false 
 }
 ~~~~
+
+
+Remove Spaces
+~~~~
+	function removeSpaces(str) {
+	     return str.replaceAll(" ","")
+}
+~~~~
+
+
+Soccer Counter
+
+~~~~
+	function sumPoints(w,d,l){
+	     return (w*3)+d
+}
+
+~~~~
