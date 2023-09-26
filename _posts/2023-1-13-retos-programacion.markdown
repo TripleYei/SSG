@@ -555,7 +555,7 @@ Find John
 
 Remove Spaces
 ~~~~
-	function removeSpaces(str) {
+function removeSpaces(str) {
 	     return str.replaceAll(" ","")
 }
 ~~~~
@@ -564,7 +564,7 @@ Remove Spaces
 Soccer Counter
 
 ~~~~
-	function sumPoints(w,d,l){
+function sumPoints(w,d,l){
 	     return (w*3)+d
 }
 
