@@ -569,3 +569,33 @@ function sumPoints(w,d,l){
 }
 
 ~~~~
+
+
+Find the smallest
+
+~~~~
+function findTheSmallest(arr) {
+	let small = Math.min(...arr)
+	return small
+}
+~~~~
+
+Remove First and Last
+
+~~~~
+function removeChars(str) {
+	return str.substring(1,str.length-1)
+}
+
+~~~~
+
+Get the Average
+~~~~
+function getAverage(arr) {
+  let divided = arr.length
+  let sum = 0
+  for(let i = 0; i<arr.length; i++)
+      sum+=arr[i]
+      return sum/divided  	
+}
+~~~~
