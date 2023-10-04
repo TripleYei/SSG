@@ -613,3 +613,11 @@ function countVowels(str) {
 }
 ~~~~
 
+Get initials
+
+~~~~
+function getInitials(name) {
+    return name.match(/\b\w/g).join(".").toUpperCase()
+
+}
+~~~~
