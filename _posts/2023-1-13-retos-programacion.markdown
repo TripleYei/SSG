@@ -621,3 +621,19 @@ function getInitials(name) {
 
 }
 ~~~~
+
+Reverse all words
+
+~~~~
+function reverseAllWords(str) {
+    return str.split(" ").reverse().join(" ")
+}
+~~~~
+
+Translate DNA
+
+~~~~
+function translateDNA(dna) {
+   return dna.split("T").join("U")
+}
+~~~~
