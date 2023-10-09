@@ -637,3 +637,31 @@ function translateDNA(dna) {
    return dna.split("T").join("U")
 }
 ~~~~
+
+
+Shortest Word
+
+~~~~
+function findShortest(str) {
+	let strSplit = str.split(' ')
+        let shortWord = strSplit[0].length
+        for(let i=0;i<strSplit.length;i++)
+            if(strSplit[i].length < shortWord)
+                shortWord = strSplit[i].length
+                return shortWord
+}
+~~~~
+
+
+The P Language
+
+~~~~
+function translate(str) {
+    let nameSplit = str.split(" ")
+    for(let i=0; i<nameSplit.length; i++)
+            nameSplit[i] = nameSplit[i].replace("","P")
+     return nameSplit.join(" ")
+     
+}
+
+~~~~
