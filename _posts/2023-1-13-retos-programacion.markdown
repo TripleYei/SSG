@@ -665,3 +665,16 @@ function translate(str) {
 }
 
 ~~~~
+
+Return Two
+
+~~~~
+function returnTwo(list) {
+   let num1 = list[2]
+   let num2 = list[0]
+   return [num1,num2]
+
+
+}
+~~~~
+
