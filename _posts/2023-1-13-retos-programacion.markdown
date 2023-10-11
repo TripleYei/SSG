@@ -678,3 +678,21 @@ function returnTwo(list) {
 }
 ~~~~
 
+Remove the Vowels
+
+~~~~
+function remove(str) {
+  return str.replace(/[aeiou]/ig, "")
+}
+~~~~
+
+Remove the Dups
+
+~~~~
+function removeDups(list) {
+  for(let i=0;i<list.length;i++)
+    if(list[i] === list[i+1])
+      list.splice(i,1)
+      return list
+}
+~~~~
