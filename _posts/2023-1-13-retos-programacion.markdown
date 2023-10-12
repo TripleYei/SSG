@@ -696,3 +696,12 @@ function removeDups(list) {
       return list
 }
 ~~~~
+
+Return the first
+
+~~~~
+function firstChar(list)
+  for(let i=0;i<list.length;i++)
+     list[i] = list[i].charAt(0)
+     return list
+~~~~
