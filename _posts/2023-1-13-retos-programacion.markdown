@@ -706,3 +706,12 @@ function firstChar(list) {
      return list
 }
 ~~~~
+
+Sort list by length 
+
+~~~~
+function sortList(list) {
+   list.sort((a,b) => { return a.length - b.length }
+   return list
+}
+~~~~
