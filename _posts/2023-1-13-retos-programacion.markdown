@@ -711,7 +711,24 @@ Sort list by length
 
 ~~~~
 function sortList(list) {
-   list.sort((a,b) => { return a.length - b.length }
+   list.sort((a,b) => { return a.length - b.length })
    return list
+}
+~~~~
+
+All Equal
+
+~~~~
+function allEqual(list) {
+
+   return list.every( equal => equal == list[0] )
+}
+~~~~
+
+Square it All
+
+~~~~
+function squareItAll(n) {
+  return Array.from(n.toString(),number => number*number).join("")
 }
 ~~~~
