@@ -732,3 +732,12 @@ function squareItAll(n) {
   return Array.from(n.toString(),number => number*number).join("")
 }
 ~~~~
+
+Prime Number
+~~~~
+function isPrime(n) {
+  if(n/1 & n/n)
+    return true
+    return false
+}
+~~~~
