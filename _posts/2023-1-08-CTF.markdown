@@ -906,7 +906,7 @@ Usamos una herramienta: ejemplo buscamos por decrypt hash.
 Y obtenemos: aG12e2Jhc2U2NGRlY29kZXJ9:hmv{base64decoder}
 
 ~~~~
-La bandera es: hmv{base64decoder}
+Bandera es: hmv{base64decoder}
 ~~~~
 002
 
@@ -917,7 +917,7 @@ Miramos en el código fuente : isthisthepassword?
 Ponemos isthisthepassword?, en el input
 
 ~~~~
-La bandera: HMV{thatwasreallyeazy}
+Bandera: HMV{thatwasreallyeazy}
 ~~~~
 004
 
