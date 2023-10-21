@@ -905,9 +905,9 @@ Usamos una herramienta: ejemplo buscamos por decrypt hash.
 
 Y obtenemos: aG12e2Jhc2U2NGRlY29kZXJ9:hmv{base64decoder}
 
-
+~~~~
 La bandera es: hmv{base64decoder}
-
+~~~~
 002
 
 Nos dan el siguiente enlace : http://momo.hackmyvm.eu/ch4ll3ng3002/
@@ -916,9 +916,9 @@ Miramos en el código fuente : isthisthepassword?
 
 Ponemos isthisthepassword?, en el input
 
-
+~~~~
 La bandera: HMV{thatwasreallyeazy}
-
+~~~~
 004
 
 Nos dan el sigueinte hash : 686d767b6d79666c61676973656173797d
@@ -927,20 +927,21 @@ Usamos una herramienta: decrypt hash
 
 Conseguimos : 686d767b6d79666c61676973656173797d:hmv{myflagiseasy}
 
-
+~~~~
 Bandera: hmv{myflagiseasy}
-
+~~~~
 009
 
 Se inspecciona la web : seleccionamos the flag is here 
 
-
+~~~~
 Bandera:  HMV{infrontofme}
-
+~~~~
 014 
 
 Nos dan el siguiente enlace: http://momo.hackmyvm.eu/
 
 Miramos los robots.txt
-
+~~~~
 Bandera: HMV{robotized}
+~~~~
