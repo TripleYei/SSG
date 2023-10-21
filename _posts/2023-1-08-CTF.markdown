@@ -906,7 +906,7 @@ Usamos una herramienta: ejemplo buscamos por decrypt hash.
 Y obtenemos: aG12e2Jhc2U2NGRlY29kZXJ9:hmv{base64decoder}
 
 ~~~~
-Bandera es: hmv{base64decoder}
+Bandera: hmv{base64decoder}
 ~~~~
 002
 
