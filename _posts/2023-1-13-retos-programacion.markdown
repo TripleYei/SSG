@@ -741,3 +741,19 @@ function isPrime(n) {
     return false
 }
 ~~~~
+
+Palindrome Word
+~~~~
+function palindromeCheck(str) {
+  if(str == str.split("").reverse().join(""))
+     return true
+     return false
+}
+~~~~
+
+Celsius to Fahrenheit
+~~~~
+function convert(c) {
+  return (c * 9 / 5) + 32
+}
+~~~~
