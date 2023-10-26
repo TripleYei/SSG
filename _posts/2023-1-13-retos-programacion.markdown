@@ -757,3 +757,31 @@ function convert(c) {
   return (c * 9 / 5) + 32
 }
 ~~~~
+
+Convert to Binary
+
+~~~~
+function translate(n) {
+   return ( n >>> 0).toString(2)
+}
+~~~~
+
+Swap Vowels
+
+~~~~
+function swapVowels(word) {
+  const letters = {
+    a:1,
+    e:2,
+    i:3,
+    o:4,
+    u:5
+    
+  }
+  for(let i=0;i<word.length;i++)
+    if(letters[word[i]])
+       word = word.replace(word[i], letters[word[i]])
+
+   return word
+}
+~~~~~
