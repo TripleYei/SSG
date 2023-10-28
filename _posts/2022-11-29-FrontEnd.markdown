@@ -132,6 +132,6 @@ Al hacer clic en la imagen, veras un efecto circular
 
 <a href="https://tripleyei.github.io/menu_effect/">Acceder</a>
 
-## Efecto hover en imágenes :
+## Efecto hover en imágenes 
 
 <a href="https://tripleyei.github.io/img_hover/">Acceder</a>
