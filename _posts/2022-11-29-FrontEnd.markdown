@@ -135,3 +135,6 @@ Al hacer clic en la imagen, veras un efecto circular
 ## Efecto hover en imágenes 
 
 <a href="https://tripleyei.github.io/img_hover/">Acceder</a>
+
+## Halloween
+<a href="https://tripleyei.github.io/halloween_css/">Acceder</a>
