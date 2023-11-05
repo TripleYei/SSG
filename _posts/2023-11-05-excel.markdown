@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Ejercicios Excel"
+date:   2023-11-05
+categories: jekyll update
+---
+
+# Excel
+
+We'll start easy. All formulas in Excel start with = . Find the total January revenue by typing =B2+B3 
+~~~~
+=B2+B3
+~~~~
+
+A better way to add numbers is to use the SUM function. Find total January revenue by typing =SUM(B2, B3)
+Notice how the function's arguments are separated by commas.
+
+~~~~
+=SUM(B2,B3)
+~~~~
+
+You can pass a group of cells to a function by using a colon. B2:B6 tells Excel "every cell from B2 to B6". Find January Revenue by typing =SUM(B2:B6)
+
+~~~~
+=SUM(B2:B6)
+~~~~
+
+
+Now use the SUM function to find total revenue for February.
+
+~~~~
+=SUM(C2:C6)
+~~~~
+
+The CFO tells you that February revenue was misreported and the total needs to be increased by $100. Type =SUM(C2:C6, 100)
+
+~~~
+=SUM(C2:C6, 100)
+~~~~
+
+Use the SUM function with the argument B7:G7 to find the total revenue from January to June
+
+~~~~
+=SUM(B7:G7)
+~~~~
+
+Use the SUM function to find the total revenue of Product A, Product C, and Consulting, all for JANUARY ONLY. Hint: The arguments look like this (?, ?, ?)
+
+~~~~
+=SUM(B2,B4,B6)
+~~~~
