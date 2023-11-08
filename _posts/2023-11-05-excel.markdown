@@ -128,6 +128,8 @@ False
 
 What would B2>=C6 evaluate to?
 
+B2 = 1000 C6= 1000
+
 ~~~~
 True
 ~~~~
