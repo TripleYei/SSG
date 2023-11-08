@@ -120,7 +120,7 @@ True
 
 What would B2>B3 evaluate to?
 
-B2 = 1000 B3 = 1200
+B2 = 1000, B3 = 1200
 
 ~~~~
 False
@@ -128,7 +128,7 @@ False
 
 What would B2>=C6 evaluate to?
 
-B2 = 1000 C6= 1000
+B2 = 1000, C6= 1000
 
 ~~~~
 True
