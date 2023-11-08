@@ -49,3 +49,85 @@ Use the SUM function to find the total revenue of Product A, Product C, and Cons
 ~~~~
 =SUM(B2,B4,B6)
 ~~~~
+
+
+The COUNT function counts all the cells that contain numbers in a specified range. Try typing =COUNT(A2:E2) to get a return value of 4
+
+~~~~
+=COUNT(A2:E2)
+~~~~
+
+COUNT only counts the cells that contain numbers. What would =COUNT(A1:A5) return?
+
+~~~~
+3
+~~~~
+
+Write a COUNT function that counts how many students have at least one pet.
+
+~~~~
+=COUNT(B2:B8)
+~~~~
+
+The following table contains Q1 sales. Write a COUNT function to count how many sales people made at least one sale in January.
+
+~~~~
+=COUNT(B2:B5)
+~~~~
+
+Write a COUNT function that would count the number of months that Chuck made at least one sale in Q1 (January through March)
+
+~~~~
+=COUNT(B4:D4)
+~~~~
+
+In Excel, logical functions and decision-making are built with statements that evaluate to true or false. There are 6 logical operators to determine true or false, and they are listed in the table below.
+The statement 1=1 is true, because 1 is equal to 1.
+Would 1=2 evaluate to True or False?
+
+~~~~
+False
+~~~~
+
+The statement 1<>1 evaluates to false, because <> means "not equal to," and it would be false to say "1 is not equal to 1."
+What would 1<>2 evaluate to?
+
+~~~~
+True
+~~~~
+
+The statement 4>=1 evaluates to true, because >= means "greater than or equal to," and 4 is greater than or equal to 1.
+What would 1<=2 evaluate to?
+
+~~~~
+True
+~~~~
+
+What would 1<=1 evaluate to?
+
+~~~~
+True
+~~~~
+
+
+What would B5=C5 evaluate to?
+
+B5 = 950, C5 = 950
+
+~~~~
+True
+~~~~
+
+What would B2>B3 evaluate to?
+
+B2 = 1000 B3 = 1200
+
+~~~~
+False
+~~~~
+
+What would B2>=C6 evaluate to?
+
+~~~~
+True
+~~~~
