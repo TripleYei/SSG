@@ -133,3 +133,47 @@ B2 = 1000, C6= 1000
 ~~~~
 True
 ~~~~
+
+
+VLOOKUP, or Vertical Lookup, finds a value in a vertical list and returns the corresponding value in an adjacent vertical list. Get the year of hurricane Ike by typing this formula into the field below: =VLOOKUP("Ike", A1:B4, 2, 0)
+
+~~~~
+=VLOOKUP("Ike", A1:B4, 2, 0)
+~~~~
+
+The first argument (values separated by commas) is the match value (what VLOOKUP looks for first). The second argument is the search area. The third argument is how many columns to the right the lookup will search (including the current column). Find the year of hurricane Sandy with: =VLOOKUP("Sandy", A1:D4, 4, 0)
+
+~~~~
+=VLOOKUP("Sandy", A1:D4, 4, 0)
+~~~~
+
+
+The final argument, 0, just means that you're looking for an exact match, rather than an approximate match. Don't worry about this for now; it'll be 0 in most cases. Find the MAKE of the Impala using a VLOOKUP formula
+
+~~~~
+=VLOOKUP("Impala", A1:B3, 2, 0)
+~~~~
+
+Find the YEAR of the RAV4 using vlookup
+
+~~~~
+=VLOOKUP("RAV4", A1:C3, 3, 0)
+~~~~
+
+Use VLOOKUP to find the name of the tenant in unit number 254. Use A:B as your second argument to include all of columns A and B in your search range.
+
+~~~~
+=VLOOKUP(254, A:B, 2, 0)
+~~~~
+
+Using the A:B range, use VLOOKUP to find the name of the student who scored 95 on the test
+
+~~~~
+=VLOOKUP(95, A:B, 2, 0)
+~~~~
+
+Using the B:C range, use VLOOKUP to find Patrick's major
+
+~~~~
+=VLOOKUP("Patrick", B:C, 2, 0)
+~~~~
