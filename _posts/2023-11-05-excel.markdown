@@ -177,3 +177,27 @@ Using the B:C range, use VLOOKUP to find Patrick's major
 ~~~~
 =VLOOKUP("Patrick", B:C, 2, 0)
 ~~~~
+
+Use LEN( ) to get the number of characters in text. Type =LEN(A2) in the field below to get the length of the text in cell A2
+
+~~~~
+=LEN(A2)
+~~~~
+
+Use LEFT( ) to get the left-most characters of some text. Type =LEFT(A2, 4) to return the 4 left-most characters in the text, which is "Mike"
+
+~~~~
+=LEFT(A2, 4)
+~~~~
+
+RIGHT( ) returns the right-most characters of some text. Try using =RIGHT( ) to return "Johnson"
+
+~~~~
+=RIGHT(A2,7)
+~~~~
+
+What would LEN(A2) return? (Don't forget the space!)
+
+~~~~
+12
+~~~~
