@@ -57,7 +57,7 @@ Work with Data in D3
 ## Chart.js
 
 
-Gráfico Barras
+Pie Charts
 ~~~~
 <!DOCTYPE html>
 <html>
@@ -67,7 +67,59 @@ Gráfico Barras
 <body>
 	
   <canvas id="myChart"></canvas>
- 
+  <style>
+  	canvas{
+  		width: 100%;
+  		max-width: 700px;
+  	}
+  </style>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+  const ctx = document.getElementById('myChart');
+
+  new Chart(ctx, {
+    type: 'pie',
+    data: {
+      labels: ['HTML', 'CSS', 'JS'],
+      datasets: [{
+        label: '# of Votes',
+        data: [12, 19, 3],
+        borderWidth: 1
+      }]
+    },
+    options: {
+      scales: {
+        y: {
+          beginAtZero: true
+        }
+      }
+    }
+  });
+</script>
+</body>
+</html>
+~~~~
+
+
+Bar Charts
+
+~~~~
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	
+  <canvas id="myChart"></canvas>
+  <style>
+  	canvas{
+  		width: 100%;
+  		max-width: 700px;
+  	}
+  </style>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
@@ -96,4 +148,3 @@ Gráfico Barras
 </body>
 </html>
 ~~~~
-
