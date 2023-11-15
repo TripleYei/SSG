@@ -230,25 +230,25 @@ Alt T
 Access the Formulas tab using the keyboard
 
 ~~~~
-ALT M
+Alt M
 ~~~~
 
 Access the Data tab using the keyboard
 
 
 ~~~~
-ALT A
+Alt A
 ~~~~
 
 Access the View tab using the keyboard
 
 
 ~~~~
-ALT W
+Alt W
 ~~~~
 
 Access the Home tab using the keyboard
 
 ~~~~
-ALT H
+Alt H
 ~~~~
