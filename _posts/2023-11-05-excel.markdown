@@ -201,3 +201,15 @@ What would LEN(A2) return? (Don't forget the space!)
 ~~~~
 12
 ~~~~
+
+
+Excel keyboard shortcuts make you faster and more efficient. Press and release the "Alt" key on your keyboard.
+
+~~~~
+Alt
+~~~~
+
+
+
+
+
