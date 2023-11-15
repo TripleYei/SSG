@@ -54,3 +54,46 @@ Work with Data in D3
 
 
 
+## Chart.js
+
+
+Gráfico Circular
+~~~~
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<div>
+  <canvas id="myChart"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+  const ctx = document.getElementById('myChart');
+
+  new Chart(ctx, {
+    type: 'pie',
+    data: {
+      labels: ['HTML', 'CSS', 'JS'],
+      datasets: [{
+        label: '# of Votes',
+        data: [12, 19, 3],
+        borderWidth: 1
+      }]
+    },
+    options: {
+      scales: {
+        y: {
+          beginAtZero: true
+        }
+      }
+    }
+  });
+</script>
+</body>
+</html>
+~~~~
+
