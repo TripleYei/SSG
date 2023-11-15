@@ -209,7 +209,46 @@ Excel keyboard shortcuts make you faster and more efficient. Press and release t
 Alt
 ~~~~
 
+Now access tools in the "Home" tab by pressing and releasing Alt, then H (the letters guide you!)
+
+~~~~
+Alt H
+~~~~
+
+Access the Insert tab with Alt, N
+
+~~~~
+Alt N
+~~~~
+
+Access the Page Layout tab with Alt, P
+
+~~~~
+Alt T
+~~~~
+
+Access the Formulas tab using the keyboard
+
+~~~~
+ALT M
+~~~~
+
+Access the Data tab using the keyboard
 
 
+~~~~
+ALT A
+~~~~
+
+Access the View tab using the keyboard
 
 
+~~~~
+ALT W
+~~~~
+
+Access the Home tab using the keyboard
+
+~~~~
+ALT H
+~~~~
