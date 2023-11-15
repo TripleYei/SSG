@@ -57,7 +57,7 @@ Work with Data in D3
 ## Chart.js
 
 
-Gráfico Circular
+Gráfico Barras
 ~~~~
 <!DOCTYPE html>
 <html>
@@ -65,9 +65,9 @@ Gráfico Circular
 	<title></title>
 </head>
 <body>
-	<div>
+	
   <canvas id="myChart"></canvas>
-</div>
+ 
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
@@ -75,7 +75,7 @@ Gráfico Circular
   const ctx = document.getElementById('myChart');
 
   new Chart(ctx, {
-    type: 'pie',
+    type: 'bar',
     data: {
       labels: ['HTML', 'CSS', 'JS'],
       datasets: [{
