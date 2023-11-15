@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "Data Visualization"
+date:   2023-11-15
+categories: jekyll update
+---
+
+# Data Visualization
+
+## Ejercicios D3 
+
+ Add Document Elements with D3
+
+~~~~
+<body>
+  <script>
+ 
+    const anchor = d3.select("body").append("h1").text("Learning D3");
+  </script>
+</body>
+~~~~
+
+Select a Group of Elements with D3
+
+~~~~
+<body>
+  <ul>
+    <li>Example</li>
+    <li>Example</li>
+    <li>Example</li>
+  </ul>
+  <script>
+    const anchors = d3.selectAll("li").text("list item");
+  </script>
+</body>
+~~~~
+
+Work with Data in D3
+
+~~~~
+<body>
+  <script>
+    const dataset = [12, 31, 22, 17, 25, 18, 29, 14, 9];
+    
+    d3.select("body").selectAll("h2")
+    .data(dataset)
+    .enter()
+    .append("h2")
+    .text("New Title");
+
+  </script>
+</body>
+~~~~
+
+
+
