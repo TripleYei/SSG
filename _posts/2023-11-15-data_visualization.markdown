@@ -198,28 +198,28 @@ Line Graphs
 
 ## Looker Studio
 
-Crear gráfico desde Looker Studio desde una Hoja de cálculo de Google
+Crear gráfico desde Looker Studio desde una Hoja de cálculo de Google.
 
 
 
-Clic en Crear  --> Fuente de datos
+Clic en Crear  --> Fuente de datos.
 
-Seleccionar Hojas de cálculo de Google
+Seleccionar Hojas de cálculo de Google.
 
-Se selecciona la hoja de cálculo
+Se selecciona la hoja de cálculo.
 
 Opciones :
 
-Quitar : Usar la primera fila como encabezado
+Quitar : Usar la primera fila como encabezado.
 
-Clic en Conectar
+Clic en Conectar.
 
-Tenemos las dimensiones : A,B Y C --> Como la hoja de Cálculo
+Tenemos las dimensiones : A,B Y C --> Como la hoja de Cálculo.
 
 
-Clic en Crear Informe, Añadir al Informe
+Clic en Crear Informe, Añadir al Informe.
 
-Añadir un gráfico: Barras,Circula,Lineas
+Añadir un gráfico: Barras,Circula,Lineas.
 
 ¡Enhorabuena, ya tienes un gráfico!
 
