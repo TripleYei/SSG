@@ -219,7 +219,7 @@ Tenemos las dimensiones : A,B Y C --> Como la hoja de Cálculo.
 
 Clic en Crear Informe, Añadir al Informe.
 
-Añadir un gráfico: Barras,Circula,Lineas.
+Añadir un gráfico: Barras,Circular,Líneas.
 
 ¡Enhorabuena, ya tienes un gráfico!
 
