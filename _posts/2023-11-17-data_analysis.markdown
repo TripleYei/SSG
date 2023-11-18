@@ -14,7 +14,9 @@ Analizar datos, con diferentes herramientas.
 Creamos una tabla :
 
 Empleados: Nombre de los empleados
+
 Horas: Horas trabajadas
+
 Cargo: Puesto de trabajo
 
 Dar formato como tabla :
@@ -27,8 +29,11 @@ Tabla dinámica :
 Insertar Tabla dinámica :
 
 En valores : Suma de Horas
+
 Fila : Empleados
+
 Cargo: Filtro de Informe
+
 
 Para calcular la suma total de horas, y la hora de cada empleado
 
