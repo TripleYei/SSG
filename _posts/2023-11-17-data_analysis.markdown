@@ -7,6 +7,8 @@ categories: jekyll update
 
 # Data Analysis
 
+Analizar datos, con diferentes herramientas.
+
 ## Excel 
 
 Creamos una tabla :
