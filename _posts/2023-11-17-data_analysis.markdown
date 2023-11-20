@@ -23,7 +23,7 @@ Dar formato como tabla :
 
 En la flecha: Marcamos según el cargo del empleado.
 
-Para filtar el nombre del empleado y sus horas.
+Para filtrar el nombre del empleado y sus horas.
 
 Tabla dinámica :
 
