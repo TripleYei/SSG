@@ -252,3 +252,53 @@ Access the Home tab using the keyboard
 ~~~~
 Alt H
 ~~~~
+
+
+Let's try some keyboard shortcuts to quickly select cells. Don't use the mouse!
+Hold Shift and press ➡ to select multiple cells
+
+~~~~
+Shift -->
+~~~~
+
+Hold Control and press ➡ to jump to non-empty cell
+
+~~~~
+Control --->
+~~~~
+
+Holding Control and pressing ➡ will also jump to the last non-empty cell
+
+~~~~
+Control --->
+~~~~
+
+Hold Control and Shift, then press ➡ to select all the non-empty cells
+
+~~~~
+Control + Shift  + --->
+~~~~
+
+Select the first two cells using the keyboard
+
+~~~~
+shift + flecha abajo
+~~~~
+
+Select all the non-empty cells using the keyboard
+
+~~~~
+shift + control + flecha abajo
+~~~~~
+
+Jump to the text using the keyboard
+
+~~~~
+Control + flecha abajo
+~~~~
+
+Select all non-empty cells using the keyboard
+
+~~~~
+control + shift + flecha abajo
+~~~~
