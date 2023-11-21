@@ -236,6 +236,7 @@ Insertar gráfico
 Creamos una serie de datos antes de usar el gráfico :
 
 Insertar:  
+
 Columna.
 
 Línea.
