@@ -39,6 +39,17 @@ Filtro de Informe: Cargo.
 Para calcular la suma total de horas, la hora de cada empleado.
 
 
+Otra forma :
+
+Insertar Tabla 
+
+Limpiar Datos :
+
+Quitar duplicados.
+
+Resumir con tabla dinámica.
+
+
 
 
 
