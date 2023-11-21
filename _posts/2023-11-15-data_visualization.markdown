@@ -225,13 +225,13 @@ Añadir un gráfico: Barras,Circular,Líneas.
 
 
 
-## Hoja de Cálculo de Google :
+## Hoja de Cálculo de Google 
 
 Antes tenemos que crear, una serie de datos.
 
 Insertar gráfico
 
-## Excel :
+## Excel 
 
 Creamos una serie de datos antes de usar el gráfico :
 
