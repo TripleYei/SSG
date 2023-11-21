@@ -223,3 +223,22 @@ Añadir un gráfico: Barras,Circular,Líneas.
 
 ¡Enhorabuena, ya tienes un gráfico!
 
+
+
+Hoja de Cálculo :
+
+Antes tenemos que crear, una serie de datos.
+Insertar gráfico
+
+Excel :
+
+Creamos una serie de datos antes de usar el gráfico :
+
+Insertar:  
+Columna.
+Línea.
+Circular.
+Barras.
+Área.
+Dispersión.
+Uso de otros gráficos
