@@ -225,7 +225,7 @@ Añadir un gráfico: Barras,Circular,Líneas.
 
 
 
-## Hoja de Cálculo :
+## Hoja de Cálculo de Google :
 
 Antes tenemos que crear, una serie de datos.
 
