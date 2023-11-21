@@ -49,11 +49,7 @@ Quitar duplicados.
 
 Resumir con tabla dinámica.
 
-Pestaña Datos:
 
-Ordenar A-Z.
-
-Incluir datos desde Texto, Web etc.
 
 
 
