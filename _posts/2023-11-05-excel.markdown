@@ -302,3 +302,64 @@ Select all non-empty cells using the keyboard
 ~~~~
 control + shift + flecha abajo
 ~~~~
+
+Join two or more strings of text together with the CONCAT function. Type =CONCAT(A1, B1) to return "ABCD".
+
+~~~~
+=CONCAT(A1,B1)
+~~~~
+
+The concat function can have as many arguments as you'd like. Use concat to get the person's full name. (Hint: don't forget the spaces - your function should have five arguments!)
+
+~~~~
+=CONCAT(B1," ",B2," ",B3)
+~~~~
+
+You can also use the ampersand (&) to concatenate strings. Type =A1&", "&A2 to return "Minneapolis, Minnesota".
+
+~~~~
+=A1&", "&A2
+~~~~
+
+Use the concat function to return "JSmith@example.com"
+
+~~~~
+=CONCAT(A3, "@example.com")
+~~~~
+
+Use & to return a string that says "Hello world".
+
+~~~~
+=A1&" "&A2
+~~~~
+
+Use the concat function to return a string that says "Hello, Eric" (don't forget the comma and space!)
+
+~~~~
+=CONCAT(A1, "  , " ,C3)
+~~~~
+
+Use & to return "ABCDEFG"
+
+~~~~
+=C3&D4&A1
+~~~~
+
+Use & to combine the pieces to form www.somedomain.com.
+
+~~~~
+=A1&A2&A3
+~~~~
+
+Use & to return the string "Biscuits & gravy".
+
+~~~~
+=A1&" & "&A2
+~~~~
+
+Use the concat function to return the phone number 651-555-5816.
+
+~~~~
+=CONCAT(A1,A4,A2,A4,A3)
+~~~~
+
