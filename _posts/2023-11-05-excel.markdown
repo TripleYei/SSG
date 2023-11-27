@@ -363,3 +363,32 @@ Use the concat function to return the phone number 651-555-5816.
 =CONCAT(A1,A4,A2,A4,A3)
 ~~~~
 
+
+The DATE function in Excel takes three number arguments (year, month, and day) and combines them to return a date. You can remember the order of the arguments because they go from largest unit to smallest.
+For example, to return the date February 5th, 2012 type the following formula:
+=DATE(2012, 2, 5)
+
+~~~~
+=DATE(2012, 2, 5)
+~~~~
+
+Now use the date function to return January 15th, 2012.
+
+~~~~
+=DATE(2012, 1, 15)
+~~~~
+
+
+
+Use the numbers in the cells below to return the date.
+
+~~~~
+=DATE(B3, B2, B1)
+~~~~
+
+Write a DATE formula that returns January 1st, 2001.
+
+~~~~
+=DATE(2001, 1, 1)
+~~~~
+
