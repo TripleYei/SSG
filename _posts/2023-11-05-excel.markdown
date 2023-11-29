@@ -393,3 +393,52 @@ Write a DATE formula that returns January 1st, 2001.
 =DATE(2001, 1, 1)
 ~~~~
 
+The MATCH function searches a range for a lookup value and returns its position in the range. Try typing =MATCH(15, A1:A6, 0) to return 5.
+
+~~~~
+=MATCH(15, A1:A6, 0)
+~~~~
+
+
+What would =MATCH("Banana", A1:A5, 0) return?
+
+~~~~
+3
+~~~~
+
+When the third argument is 0, MATCH looks for an exact match. When it is 1 and the values are sorted in ascending order, MATCH looks for the position of a largest value less than or equal to the match value. what does =MATCH(120, A1:A5, 1) return?
+
+~~~~
+4
+~~~~
+
+When the third argument is -1 and the values are sorted in descending order, MATCH looks for the smallest value that is greater than or equal to the match value. What would =MATCH(405, A1:A5, -1) return?
+
+~~~~
+2
+~~~~
+
+MATCH also supports wildcard matching, where the * symbol can substitute for any text. What would =MATCH("*stin", A:A, 0) return?
+
+
+~~~~
+1
+~~~~
+
+Write a MATCH function that would return 5.
+
+~~~~
+=MATCH(1, A:A, 0)
+~~~~
+
+What would =MATCH("M*", A:A, 0) return?
+
+~~~~
+2
+~~~~
+
+What would =MATCH(10, B1:B5, 1) return?
+
+~~~~
+3
+~~~~
