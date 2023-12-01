@@ -442,3 +442,61 @@ What would =MATCH(10, B1:B5, 1) return?
 ~~~~
 3
 ~~~~
+
+The AVERAGE functions returns the average of a group of cells. To get the average number of electoral votes among the top 6 states, type =AVERAGE(B2:B7)
+
+~~~~
+=AVERAGE(B2:B7)
+~~~~
+
+
+Use AVERAGE to find the average number of DEMOCRATIC Congressional Seats for the top 6 states
+
+~~~~
+=AVERAGE(C2:C7)
+~~~~
+
+Use AVERAGE to find the average number of REPUBLICAN Congressional Seats for the top 6 states
+
+~~~~
+=AVERAGE(D2:D7)
+~~~~
+
+Use AVERAGE to find the average number of electoral votes for the top 4 states
+
+~~~~
+=AVERAGE(B2:B5)
+~~~~
+
+Use AVERAGE to find the average number of Republican congressional seats for the top 3 states
+
+~~~~
+=AVERAGE(D2:D4)
+~~~~
+
+
+What would =AVERAGE(D2) return?
+
+~~~~
+6
+~~~~
+
+What would =AVERAGE(1, 1, 1, 1, 1, 1, 1) return?
+
+~~~~
+1
+~~~~
+
+
+What would =AVERAGE(50, 100, 150) return?
+
+~~~~
+100
+~~~~
+
+
+Use AVERAGE to find the average number of electoral votes for Texas, Florida, and Pennsylvania
+
+~~~~
+=AVERAGE(B3,B5,B7)
+~~~~
