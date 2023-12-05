@@ -500,3 +500,72 @@ Use AVERAGE to find the average number of electoral votes for Texas, Florida, an
 ~~~~
 =AVERAGE(B3,B5,B7)
 ~~~~
+
+
+In Excel, the entire Excel file is called a workbook, and each of the tabs along the bottom represents a worksheet. In the example below, the active worksheet (the one you're currently viewing) is Sheet4.
+When you're writing a formula on Sheet4, you can reference cells from other worksheets in your formula.
+Press Enter to continue.
+
+
+~~~~
+Enter
+~~~~
+
+To reference a cell in another sheet, type the sheet name followed by an exclamation point, then the cell letter and number.
+In the space below, type =Sheet1!A5 to reference cell A5 in worksheet Sheet1.
+
+~~~~
+=Sheet1!A5
+~~~~
+
+
+Write a reference to cell B2 in the second sheet.
+
+~~~~
+=Sheet2!B2
+~~~~
+
+
+Write a reference to the entire A column in the second worksheet.
+
+~~~~
+=Data!A:A
+~~~~
+
+Use the SUM function to add cell A1 from sheet 1, and cell A1 from sheet 2.
+
+~~~~
+=SUM(Sheet1!A1, Sheet2!A1)
+~~~~
+
+
+Use the MIN function to find the minimum value in column G in sheet 2.
+
+~~~~
+=MIN(Sheet2!G:G)
+~~~~
+
+Use the UPPER function to convert the contents of cell C5 in sheet 3 to uppercase.
+
+~~~~
+=UPPER(Sheet3!C5)
+~~~~
+
+Write a reference for the entire row 4 of the Data sheet.
+
+~~~~
+=Data!4:4
+~~~~
+
+Use the SUM function to find the sum of all values in column B of the data tab.
+
+~~~~
+=SUM(Data!B:B)
+~~~~
+
+Use the MAX function to find the maximum value in column C in sheet 3.
+
+
+~~~~
+=MAX(Sheet3!C:C)
+~~~~
