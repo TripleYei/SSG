@@ -569,3 +569,26 @@ Use the MAX function to find the maximum value in column C in sheet 3.
 ~~~~
 =MAX(Sheet3!C:C)
 ~~~~
+
+
+W3schools
+
+Complete the formula:
+
+1+1
+~~~~
+=1+1
+~~~~
+
+Type the value that the formula returns: =2*4
+
+~~~~
+8
+~~~~
+
+Type the value that the formula returns: =20/2
+
+~~~~
+10
+~~~~
+
