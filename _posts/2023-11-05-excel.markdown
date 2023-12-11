@@ -592,3 +592,103 @@ Type the value that the formula returns: =20/2
 10
 ~~~~
 
+Type the cell reference for Column A, Row 1:
+
+~~~~
+A1
+~~~~
+
+Type the cell reference for Row 5, Column B:
+
+~~~~
+B5
+~~~~
+
+Type the range Column A, Row 1 : Column E, Row 10:
+
+~~~~
+A1:E10
+~~~~
+
+
+Type the range Column A, Row 2 : Column B, Row 5:
+
+~~~~
+A2:B5
+~~~~
+
+
+Complete the sequence of numbers:
+
+~~~~
+A1(1)
+A2(2)
+A3(3)
+~~~~
+
+
+Complete the sequence of numbers:
+
+~~~~
+A1(2)
+A2(4)
+A3(6)
+~~~~
+
+Complete the sequence of dates:
+
+~~~~
+A1(07.20.2021)
+A2(07.21.2021)
+A3(07.22.2021)
+~~~~
+
+
+Complete the sequence of dates:
+
+~~~~
+A1(07.20.2021)
+A2(07.21.2021)
+A3(07.22.2021)
+~~~~
+
+
+Complete the sequence of text and numbers:
+
+~~~~
+A1(Hello1)
+A2(Hello2)
+A3(Hello3)
+~~~~
+
+
+Type the cell in the bottom right corner of the range B2:C5:
+
+~~~~
+C5
+~~~~
+
+Type the cell in the top left corner of the range B2:C5
+
+~~~~
+B2
+~~~~
+
+Complete the name of the command for adding columns:
+
+~~~~
+insert Columns
+~~~~
+
+Complete the name of the command for removing columns:
+
+~~~~
+delete Columns
+~~~~
+
+Complete the name of the command for adding rows:
+
+~~~~
+insert rows
+~~~~
+
