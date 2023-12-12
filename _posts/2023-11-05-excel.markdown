@@ -692,3 +692,119 @@ Complete the name of the command for adding rows:
 insert rows
 ~~~~
 
+Complete the keyboard shortcut for the Undo command (for Windows and MAC):
+
+~~~~
+CTRL + z
+
+Command + z
+~~~~
+
+
+Complete the keyboard shortcut for the Redo command (for Windows and MAC):
+
+~~~~
+CTRL + y
+
+Command + y
+
+~~~~
+
+
+Complete the formula:
+
+~~~~
+=8+10
+~~~~
+
+Type the value that the formula returns: =2*15
+
+~~~~
+30
+~~~~
+
+Type the value that the formula returns: =6+15+30
+
+~~~~
+51
+~~~~
+
+Complete the SUM function:
+
+~~~~
+=SUM(E2:E4)
+~~~~
+
+Type the value that the SUM function returns: =SUM(25;15;5)
+
+~~~~
+45
+~~~~
+
+Type reference B2 as relative:
+
+~~~~
+B2
+~~~~
+
+Type reference A1 as absolute:
+
+~~~~
+$A$1
+~~~~
+
+Type the symbol that Excel uses for addition:
+
+~~~~
++
+~~~~
+
+Complete the formula using addition:
+
+~~~~
+=5+50
+~~~~
+
+Complete the formula using subtraction:
+
+~~~~
+=5-50
+~~~~
+
+
+Complete the formula using multiplication:
+
+~~~~
+=5*50
+~~~~
+
+Complete the formula using division:
+
+~~~~
+=25/5
+~~~~
+
+Type the value that the formula returns: =10+10*2
+
+~~~~
+30
+~~~~
+
+
+Complete the formula:
+
+~~~~
+=(10+10)*2
+~~~~
+
+Type the value that the formula returns: =(10+10)*2
+
+~~~~
+40
+~~~~
+
+Type the value that the formula returns: =(2*(2+2)+(4+4)*2):
+
+~~~~
+24
+~~~~
