@@ -57,7 +57,6 @@ Mostrar el nombre y apellido de los pacientes, quién no tiene alergias.
 
 ~~~~
 SELECT first_name,last_name FROM patients WHERE allergies IS NULL;
-
 ~~~~
 
 
@@ -66,10 +65,7 @@ Show first name of patients that start with the letter 'C'
 Mostrar el nombre del paciente que empiece con la letra C
 
 ~~~~
-
 SELECT first_name from patients WHERE first_name LIKE "C%";
-
-
 ~~~~
 
 Show first name, last name, and gender of patients who's gender is 'M'
