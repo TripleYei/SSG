@@ -102,7 +102,6 @@ Write a statement that will select the City column from the Customers table.
 
 ~~~~
 SELECT city FROM Customers;
-
 ~~~~
 
 
@@ -110,7 +109,6 @@ Select all the different values from the Country column in the Customers table.
 
 
 ~~~~
-
 SELECT DISTINCT Country FROM Customers;
 ~~~~
 
@@ -241,6 +239,87 @@ Delete all the records from the Customers table.
 ~~~~
 DELETE FROM Customers;
 ~~~~
+
+Use the MIN function to select the record with the smallest value of the Price column.
+
+~~~~
+SELECT MIN(PRICE) FROM Products;
+~~~~
+
+Use the MIN function to select the record with the smallest value of the Price column.
+
+~~~~
+SELECT MIN(PRICE) FROM Products;
+~~~~
+
+Use the correct function to return the number of records that have the Price value set to 18.
+
+~~~~
+SELECT COUNT (*) FROM Products WHERE Price = 18;
+~~~~
+
+Use an SQL function to calculate the average price of all products.
+
+~~~~
+SELECT AVG(price) FROM Products;
+~~~~
+
+Use an SQL function to calculate the sum of all the Price column values in the Products table.
+
+~~~~
+SELECT SUM(price) FROM Products;
+~~~~
+
+Select all records where the value of the City column starts with the letter "a".
+
+~~~~
+SELECT * FROM Customers WHERE city LIKE 'a%';
+~~~~
+
+Select all records where the value of the City column ends with the letter "a".
+
+~~~~
+SELECT * FROM Customers WHERE city like '%a';
+~~~~
+
+Select all records where the value of the City column contains the letter "a".
+
+~~~~
+SELECT * FROM Customers WHERE city LIKE '%a%';
+~~~~
+
+Select all records where the value of the City column starts with letter "a" and ends with the letter "b".
+
+~~~~
+SELECT * FROM Customers WHERE city LIKE 'a%b';
+~~~~
+
+Select all records where the value of the City column does NOT start with the letter "a".
+
+~~~~
+SELECT * FROM Customers WHERE city NOT LIKE 'a%';
+~~~~
+
+
+Select all records where the second letter of the City is an "a".
+
+~~~~
+SELECT * FROM Customers WHERE City LIKE '_a%';
+~~~~
+
+Select all records where the first letter of the City is an "a" or a "c" or an "s".
+
+~~~~
+SELECT * FROM Customers WHERE City LIKE '[acs]%';
+~~~~
+
+Select all records where the first letter of the City is NOT an "a" or a "c" or an "f".
+
+~~~~
+SELECT * FROM Customers WHERE City LIKE '[^acf]%';
+~~~~
+
+
 
 ## Exercism : <a href="https://exercism.org"> Ir a la web</a>
 
