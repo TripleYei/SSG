@@ -350,9 +350,133 @@ Use the BETWEEN operator to select all the records where the value of the Produc
 SELECT * FROM Products WHERE ProductName BETWEEN "Geitost" AND "Pavlova";
 ~~~~
 
+When displaying the Customers table, make an ALIAS of the PostalCode column, the column should be called Pno instead.
 
+~~~~
+SELECT CustomerName,
+Address,
+PostalCode 
+Pno
+FROM Customers;
+~~~~
 
+When displaying the Customers table, refer to the table as Consumers instead of Customers.
 
+~~~~
+SELECT *
+FROM Customers 
+AS Consumers;
+~~~~
+
+Insert the missing parts in the JOIN clause to join the two tables Orders and Customers, using the CustomerID field in both tables as the relationship between the two tables.
+
+~~~~
+SELECT *
+FROM Orders
+LEFT JOIN Customers
+ON Orders.CustomerID
+=
+Customers.CustomerID;
+~~~~
+
+Choose the correct JOIN clause to select all records from the two tables where there is a match in both tables.
+
+~~~~
+SELECT *
+FROM Orders
+INNER JOIN customers
+
+ON Orders.CustomerID=Customers.CustomerID;
+~~~~
+
+Choose the correct JOIN clause to select all the records from the Customers table plus all the matches in the Orders table.
+
+~~~~
+SELECT *
+FROM Orders
+RIGHT JOIN Customers
+
+ON Orders.CustomerID=Customers.CustomerID;
+~~~~
+
+List the number of customers in each country.
+
+~~~~
+SELECT 
+COUNT
+(CustomerID),
+Country
+FROM Customers
+GROUP BY country;
+~~~~
+
+List the number of customers in each country, ordered by the country with the most customers first.
+
+~~~~
+SELECT 
+COUNT
+(CustomerID),
+Country
+FROM Customers
+GROUP BY Country
+
+ORDER BY 
+COUNT(CustomerID) DESC;
+~~~~
+
+Write the correct SQL statement to create a new database called testDB.
+
+~~~~
+CREATE DATABASE testDB;
+~~~~
+
+Write the correct SQL statement to delete a database named testDB.
+
+~~~~
+DROP DATABASE testDB;
+~~~~
+
+Write the correct SQL statement to create a new table called Persons.
+
+~~~~
+CREATE TABLE Persons
+ (
+  PersonID int,
+  LastName varchar(255),
+  FirstName varchar(255),
+  Address varchar(255),
+  City varchar(255) 
+);
+~~~~
+
+Write the correct SQL statement to delete a table called Persons.
+
+~~~~
+DROP TABLE Persons;
+~~~~
+
+Use the TRUNCATE statement to delete all data inside a table.
+
+~~~~
+TRUNCATE TABLE Persons;
+~~~~
+
+Add a column of type DATE called Birthday.
+
+~~~~
+ALTER TABLE
+ Persons
+ADD Birthday DATE;
+~~~~
+
+Delete the column Birthday from the Persons table.
+
+~~~~
+ALTER TABLE
+ Persons
+DROP COLUMN
+ Birthday;
+~~~~
 
 
 ## Exercism : <a href="https://exercism.org"> Ir a la web</a>
