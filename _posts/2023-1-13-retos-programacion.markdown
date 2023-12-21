@@ -49,7 +49,7 @@ function myFunction(a)
 }
 ~~~~
 
-JavaScript w3schools
+# JavaScript w3schools
 
 Create a variable called carName, assign the value Volvo to it.
 
