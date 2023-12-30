@@ -1747,3 +1747,17 @@ function swapVowels(word) {
    return word
 }
 ~~~~~
+
+Find the Second
+
+~~~~
+function findSecond(list) {
+  let max = Math.max(...list)
+  let second = 0
+  for(let i=0;i<list.length;i++)
+     if(list[i] < max)
+       second = list[i]
+       return second
+
+}
+~~~~
