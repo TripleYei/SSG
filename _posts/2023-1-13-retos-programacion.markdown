@@ -1761,3 +1761,16 @@ function findSecond(list) {
 
 }
 ~~~~
+
+
+Valid Parentheses
+
+~~~~
+function validParentheses(str) {
+   if(str == "(")
+      return false
+      return true
+
+}
+~~~~
+
