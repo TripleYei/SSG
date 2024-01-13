@@ -1774,3 +1774,17 @@ function validParentheses(str) {
 }
 ~~~~
 
+Unique Characters
+
+~~~~
+function hasUniqueCharacters(str)
+{
+  let charac = str.toLowerCase()
+  if(str != charac)
+     return true
+     return false
+
+}
+~~~~
+
+
