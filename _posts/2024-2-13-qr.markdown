@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Creación de código QR con Python"
+date:   2024-2-13
+categories: jekyll update
+---
+
+# Creación de código QR con Python.
+
+Uso de la librería pyqrcode :
+
+Con la herramienta, podemos crear un código qr, para un enlace, otro tipo de texto.
+
+Más información :
+
+<a href="https://github.com/TripleYei/qr_python">Ir al enlace</a>
