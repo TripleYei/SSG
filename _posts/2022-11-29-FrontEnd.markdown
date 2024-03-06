@@ -8,7 +8,7 @@ categories: Front-end
 
 # Plantillas hechas con HTML & CSS
 
-Por aqui dejo diferentes sitio estáticos que he hecho con HTML & CSS
+Diferentes sitios estáticos con HTML y CSS.
 
 ## Landing Page
 
@@ -16,7 +16,7 @@ Por aqui dejo diferentes sitio estáticos que he hecho con HTML & CSS
 
 ## Efecto circular en imágenes
 
-Al hacer clic en la imagen, veras un efecto circular
+Al hacer clic en la imagen veras un efecto circular.
 
 <a href="https://tripleyei.github.io/RWD-images/"> Acceder al efecto</a>
 
@@ -87,11 +87,11 @@ Al hacer clic en la imagen, veras un efecto circular
 
 <a href="https://tripleyei.github.io/radial-gradient_css/">Acceder</a>
 
-## Clip-path en css, para las imágenes.
+## Clip-path en css, para las imágenes
 
 <a href="https://tripleyei.github.io/clip-path_css/">Acceder</a>
 
-## mask-image en CSS :
+## mask-image en CSS
 
 <a href="https://tripleyei.github.io/mask-image_css/">Acceder</a>
 
@@ -116,11 +116,11 @@ Al hacer clic en la imagen, veras un efecto circular
 
 <a href="https://tripleyei.github.io/blog_css/">Acceder</a> 
 
-## Uso de framework, creación de portafolio.
+## Uso de framework, creación de portafolio
 
 <a href="https://tripleyei.github.io/portafolio/">Acceder</a>
 
-## Efecto con HTML,CSS Y JS
+## Efecto con HTML, CSS, JS
 
 <a href="https://tripleyei.github.io/blog_portafolio/">Acceder</a>
 
