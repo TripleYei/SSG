@@ -11,28 +11,28 @@ Voy a poner retos de diferentes plataformas.
 
 ## <a href="https://ctfchallenge.com"> https://ctfchallenge.com</a>
 
-## Reto : VulnBegin
+## Reto: VulnBegin
 
-objetivo : http://www.vulnbegin.co.uk/
+objetivo: http://www.vulnbegin.co.uk/
 
-Miramos los robots.txt del objetivo : http://www.vulnbegin.co.uk/robots.txt
+Miramos los robots.txt del objetivo: http://www.vulnbegin.co.uk/robots.txt
 
-Vemos lo siguiente :
+Vemos lo siguiente:
 
 Disallow: /secret_d1rect0y/
 
-Dentro del objetivo : http://www.vulnbegin.co.uk/secret_d1rect0y
+Dentro del objetivo: http://www.vulnbegin.co.uk/secret_d1rect0y
 
-¡Felicidades tenemos el Flag ! [^FLAG^2B22E2CB70E218510802B0359488F6A2^FLAG^]
+¡Felicidades! [^FLAG^2B22E2CB70E218510802B0359488F6A2^FLAG^]
 
 
 ## <a href="https://www.picoctf.org/">https://www.picoctf.org/</a>
 
-## Categoría : Web Exploitation
+## Categoría: Web Exploitation
 
 Where are the robots
 
-Objetivo : https://jupiter.challenges.picoctf.org/problem/56830/
+Objetivo: https://jupiter.challenges.picoctf.org/problem/56830/
 
 Vemos los robots.txt
 
@@ -45,40 +45,40 @@ Disallow: /1bb4c.html
 
 https://jupiter.challenges.picoctf.org/problem/56830/1bb4c.html
 
-¡Felicidades tenemos el FLAG! picoCTF{ca1cu1at1ng_Mach1n3s_1bb4c}
+¡Felicidades! picoCTF{ca1cu1at1ng_Mach1n3s_1bb4c}
 
-## Categoría : Web Exploitation
+## Categoría: Web Exploitation
 
 includes
 
-Objetivo : http://saturn.picoctf.net:54634/
+Objetivo: http://saturn.picoctf.net:54634/
 
-En el Inspector :
+En el Inspector:
 
-Miramos en la pestaña editor de estilos :
+Miramos en la pestaña editor de estilos:
 
-Donde tenemos : picoCTF{1nclu51v17y_1of2_
+Donde tenemos: picoCTF{1nclu51v17y_1of2_
 
-En ver código fuente :
+En ver código fuente:
 
 Dentro del código JS
 ~~~~
 <script src="script.js"></script>
 ~~~~
 
-Tenemos : f7w_2of2_df589022}
+Tenemos: f7w_2of2_df589022}
 
-Al juntar las dos partes : picoCTF{1nclu51v17y_1of2_f7w_2of2_df589022}
+Al juntar las dos partes: picoCTF{1nclu51v17y_1of2_f7w_2of2_df589022}
 
-## Categoría : Web Exploitation
+## Categoría: Web Exploitation
 
 Inspect HTML
 
 Objetivo : http://saturn.picoctf.net:50920/
 
-Entramos en el Inspector :
+Entramos en el Inspector:
 
-Ahí está la bandera comentada en código HTML :
+Ahí está la bandera comentada en código HTML:
 
 ~~~~
 <!-- picoCTF{1n5p3t0r_0f_h7ml_1fd8425b} -->
@@ -88,51 +88,51 @@ Ahí está la bandera comentada en código HTML :
 picoCTF{1n5p3t0r_0f_h7ml_1fd8425b}
 
 
-## Categoría : Web Exploitation
+## Categoría: Web Exploitation
 
 Insp3ct0r
 
 Objetivo : https://jupiter.challenges.picoctf.org/problem/9670/
 
-Miramos en el código fuente :
+Miramos en el código fuente:
 
-Tenemos aqui la primera parte de la bandera :
+Tenemos aqui la primera parte de la bandera:
 
 ~~~~
 <!-- Html is neat. Anyways have 1/3 of the flag: picoCTF{tru3_d3 -->
 ~~~~
 
-Miramos en el código css : mycss.ss
+Miramos en el código css: mycss.ss.
 
 ~~~~
 /* You need CSS to make pretty pages. Here's part 2/3 of the flag: t3ct1ve_0r_ju5t */
 ~~~~
 
-Ahora, miramos en el código JS :
+Ahora, miramos en el código JS:
 
 /* Javascript sure is neat. Anyways part 3/3 of the flag: _lucky?2e7b23e3} */
 
-Lo juntamos todo :
+Lo juntamos todo:
 
-¡ Felicidades ya tenemos la bandera !
+¡Felicidades ya tenemos la bandera!
 ~~~~
 
 picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?2e7b23e3}
 
 ~~~~
 
-## Categoría : Web Exploitation
+## Categoría: Web Exploitation
 
 Scavenger Hunt
 
 
-Miramos en el código fuente :
+Miramos en el código fuente:
 
 ~~~~
 <!-- Here's the first part of the flag: picoCTF{t -->
 ~~~~
 
-Miramos en el código css : mycss.css
+Miramos en el código css: mycss.css
 
 ~~~~
 
@@ -140,7 +140,7 @@ Miramos en el código css : mycss.css
 
 ~~~~
 
-Miramos en el código JS :
+Miramos en el código JS:
 
 ~~~~
 
@@ -148,7 +148,7 @@ Miramos en el código JS :
 
 ~~~~
 
-Nos da la pista, de lo siguiente :
+Nos da la pista siguiente:
 
 Los robots.txt
 
@@ -164,7 +164,7 @@ Disallow: /index.html
 
 ~~~~
 
-Nos da la pista del archivo : .htaccess
+Nos da la pista del archivo: .htaccess
 
 http://mercury.picoctf.net:39698/.htaccess
 
@@ -173,7 +173,7 @@ http://mercury.picoctf.net:39698/.htaccess
 # I love making websites on my Mac, I can Store a lot of information there.
 ~~~~
 
-Se refiere al : .DS_Store
+Se refiere al: .DS_Store
 
 http://mercury.picoctf.net:39698/.DS_Store
 
@@ -181,62 +181,62 @@ http://mercury.picoctf.net:39698/.DS_Store
 **Congrats! You completed the scavenger hunt. Part 5: _fa04427c}**
 ~~~~
 
-Lo juntamos todo :
+Lo juntamos todo:
 
 ~~~~
 picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_fa04427c}
 
 ~~~~
 
-## Category : Web Exploitation
+## Category: Web Exploitation
 
 GET aHEAD
 
 Objetivo : http://mercury.picoctf.net:34561/
 
-Vamos a usar una herramienta online, para ver las cabeceras HTTP
+Vamos a usar una herramienta online para ver las cabeceras HTTP.
 
 https://wtools.io/check-headers-online
 
-Le ponemos el objetivo, y tenemos :
+Le ponemos el objetivo:
 
 ~~~~
 picoCTF{r3j3ct_th3_du4l1ty_8f878508}
 ~~~~
 
 
-## Category : Web Exploitation
+## Category: Web Exploitation
 
 Cookies
 
-Ponemos lo siguiente :
+Ponemos lo siguiente:
 ~~~~
 snickerdoodle
 ~~~~
 
-Podemos usar en inspeccionar , Almacenamiento, Cookies y ir cambiando el valor
+Podemos usar en inspeccionar, Almacenamiento, Cookies y ir cambiando el valor.
 
-O podemos usar un plugin llamado Cookie Quick Manager
+O podemos usar un plugin llamado Cookie Quick Manager.
 
-Ponemos el siguiente valor :
+Ponemos el siguiente valor:
 
 ~~~~
 18
 ~~~~
 
-Se recarga la web, y conseguimos :
+Se recarga la web:
 
 ~~~~
 picoCTF{3v3ry1_l0v3s_c00k135_a1f5bdb7}
 ~~~~
 
-## Category : Web Exploitation
+## Category: Web Exploitation
 
 dont-use-client-side
 
 Objetivo: https://jupiter.challenges.picoctf.org/problem/17682/
 
-Miramos en el código fuente, y tenemos el siguiente código JS
+Miramos en el código fuente del código JS.
 
 ~~~~
 <script type="text/javascript">
@@ -269,7 +269,7 @@ Miramos en el código fuente, y tenemos el siguiente código JS
 </script>
 ~~~~
 
-Si, nos fijamos, podemos sacar lo siguiente :
+Sí, nos fijamos podemos sacar lo siguiente:
 
 
 (0, split) == 'pico'
@@ -288,25 +288,25 @@ split*6, split*7) == '706c')
 
 (split*7, split*8) == '5}')
 
-Si lo juntamos, se forma la siguiente bandera
+Se une la bandera:
 
 ~~~~
 picoCTF{no_clients_plz_b706c5}
 ~~~~
 
-## Category : Cryptography
+## Category: Cryptography
 
 Mod 26
 
-Objetivo : cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_hyLicInt}
+Objetivo: cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_hyLicInt}
 
 Usamos una herramienta para decodificar el ROT13
 
-Vamos a usar esta herramienta online :
+Vamos a usar esta herramienta online:
 
 https://cryptii.com/pipes/rot13-decoder
 
-Le ponemos el objetivo, y tenemos ya la bandera :
+Le ponemos el objetivo y se consigue la bandera:
 
 ~~~~
 picoCTF{next_time_I'll_try_2_rounds_of_rot13_ulYvpVag}
@@ -316,11 +316,11 @@ picoCTF{next_time_I'll_try_2_rounds_of_rot13_ulYvpVag}
 
 Objetivo : cvpbPGS{abg_gbb_onq_bs_n_ceboyrz}
 
-Usamos una herramienta online, para decodificar el ROT13
+Usamos una herramienta online para decodificar el ROT13
 
 https://cryptii.com/pipes/rot13-decoder
 
-Ponemos el objetivo, y el resultado es :
+Ponemos el objetivo y el resultado es:
 
 ~~~~
 picoCTF{not_too_bad_of_a_problem}
@@ -328,7 +328,7 @@ picoCTF{not_too_bad_of_a_problem}
 
 Mind your Ps and Qs
 
-Descargamos el archivo values :
+Descargamos el archivo values:
 
 Es un RSA.
 
@@ -341,9 +341,9 @@ c: 86127024352719089577714253783833383292057926401053302928210423000646142008615
 n: 1311097532562595991877980619849724606784164430105441327897358800116889057763413423
 e: 6553
 ~~~~
-Después de poner, en cada casilla de la herramienta anterior, poner el código c, n, e
+Después de poner en cada casilla de la herramienta anterior poner el código c, n, e
 
-Conseguimos la bandera :
+Conseguimos la bandera:
 
 ~~~~
 picoCTF{sma11_N_n0_g0od_13686679}
@@ -351,25 +351,25 @@ picoCTF{sma11_N_n0_g0od_13686679}
 
 
 
-## Category : General Skills
+## Category: General Skills
 
 Obedient Cat.
 
 Descargamos el archivo llamado flag.
 
-Lo abrimos con un bloc de notas y dentro tenemos
+Lo abrimos con un bloc de notas y dentro tenemos.
 
 ~~~~
 picoCTF{s4n1ty_v3r1f13d_2fd6ed29}
 ~~~~
 
-Wave a flag :
+Wave a flag:
 
-Descargamos el archivo llamado warm
+Descargamos el archivo llamado warm.
 
-Dentro del bloc de notas, le damos a buscar y ponemos : pico
+Dentro del bloc de notas le damos a buscar y ponemos pico.
 
-Y encontramos la siguiente bandera
+Encontramos la siguiente bandera:
 ~~~~
 picoCTF{b1scu1ts_4nd_gr4vy_f0668f62}
 ~~~~
@@ -378,14 +378,14 @@ picoCTF{b1scu1ts_4nd_gr4vy_f0668f62}
 
 2Warm
 
-Pasar el número 42 a binario
+Pasar el número 42 a binario:
 
 Resultado 
 ~~~~
 101010
 ~~~~
 
-Para poder, resolver el reto, hacemos lo siguiente :
+Para poder resolver el reto hacemos lo siguiente:
 
 ~~~~
 picoCTF{101010}
@@ -394,7 +394,7 @@ picoCTF{101010}
 
 Warmed Up
 
-0x3D (hexadecimal) pasarlo a decimal
+0x3D (hexadecimal) pasarlo a decimal:
 
 ~~~~
 picoCTF{61}
@@ -405,19 +405,19 @@ picoCTF{61}
 
 Bases
 
-Objetivo : bDNhcm5fdGgzX3IwcDM1
+Objetivo: bDNhcm5fdGgzX3IwcDM1
 
-Usamos una herramienta online, para decodificar base64
+Usamos una herramienta online para decodificar base64.
 
 https://www.base64decode.org/
 
-Ponemos el código anterior, y conseguimos :
+Ponemos el código anterior:
 
 ~~~~
 l3arn_th3_r0p35
 ~~~~
 
-Ahora solo falta :
+Ahora solo falta:
 
 ~~~~
 picoCTF{l3arn_th3_r0p35}
@@ -433,13 +433,13 @@ Usamos esta herramienta online:
 
 https://www.calculators.tech/hex-to-ascii
 
-Nos da :
+Nos da:
 ~~~~
 p
 ~~~~
 
 
-La bandera es la siguiente :
+La bandera es la siguiente:
 
 ~~~~
 picoCTF{p}
@@ -450,22 +450,22 @@ what's a net cat?
 
 Objetivo: jupiter.challenges.picoctf.org port:41120
 
-Vamos a usar un plugin de Chrome, llamado Netcat
+Vamos a usar un plugin de Chrome llamado Netcat.
 
-Le ponemos hostname : jupiter.challenges.picoctf.org
+Le ponemos hostname: jupiter.challenges.picoctf.org,
 
-port : 41120
+port: 41120,
 
-Y connect
+connect.
 
-Resultado de la bandera
+Resultado de la bandera:
 ~~~~
 picoCTF{nEtcat_Mast3ry_3214be47}
 ~~~~
 
 ## Category : Forensics
 
-Information.
+Information
 
 Descargamos la imagen llamada cat.jpg
 
@@ -473,7 +473,7 @@ Vemos los metadatos de esta imagen, vamos a usar esta herramienta online
 
 https://www.metadata2go.com/
 
-Encontramos en la licencia de la imagen lo siguiente :
+Encontramos en la licencia de la imagen lo siguiente:
 
 ~~~~
 
@@ -481,13 +481,13 @@ cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9
 
 ~~~~
 
-Ahora, vamos a decodificar 
+Decodificar
 
 Buscamos esta herramienta online de base 64
 
 https://www.base64decode.org/
 
-Ponemos el código anterior, y encontramos lo siguiente :
+Ponemos el código anterior encontramos lo siguiente:
 
 ~~~~
 picoCTF{the_m3tadata_1s_modified}
@@ -495,7 +495,7 @@ picoCTF{the_m3tadata_1s_modified}
 
 ## <a href="https://www.root-me.org">https://www.root-me.org</a>
 
-## Challenges : Web - Client
+## Challenges: Web - Client
 
 HTML - disabled buttons
 
@@ -525,24 +525,24 @@ Le quitamos disabled a los input
         </form>
 ~~~~
 
-Ahora ya funciona, el formulario, ponemos por ejemplo Hola y pulsamos en Member access
+Ahora ya funciona el formulario ponemos, por ejemplo, Hola y pulsamos en Member access
 
 ~~~~
 Member access granted! The validation password is HTMLCantStopYou
 ~~~~
 
-Ya tenemos la contraseña : HTMLCantStopYou
+Ya tenemos la contraseña: HTMLCantStopYou
 
 
 Javascript - Authentication
 
 Objetivo : http://challenge01.root-me.org/web-client/ch9/
 
-Entramos en el inspector,  pestaña red : Le damos a recargar
+Entramos en el inspector,  pestaña red, damos a recargar
 
-Dentro de la pestaña consola , GET http://challenge01.root-me.org/web-client/ch9/login.js
+Dentro de la pestaña consola, GET http://challenge01.root-me.org/web-client/ch9/login.js
 
-Pestaña respuesta :
+Pestaña respuesta:
 
 ~~~~
 GEThttp://challenge01.root-me.org/web-client/ch9/login.js
@@ -586,16 +586,16 @@ Tenemos el username y la password
 
 pseudo=="4dm1n" && password=="sh.org"
 
-La contraseña es : sh.org
+La contraseña es: sh.org
 
 
-JavaScript Source :
+JavaScript Source:
 
-Objetivo : http://challenge01.root-me.org/web-client/ch1/
+Objetivo: http://challenge01.root-me.org/web-client/ch1/
 
-Nos sale un alert, le damos a aceptar , miramos el código fuente
+Nos sale un alert damos a aceptar miramos el código fuente
 
-Tenemos el código JS :
+Tenemos el código JS:
 
 ~~~~
 <script type="text/javascript">
@@ -613,13 +613,13 @@ Tenemos el código JS :
 ~~~~
 
 
-La contraseña : 123456azerty
+La contraseña: 123456azerty
 
 Javascript - Authentication 2
 
-Objetivo : http://challenge01.root-me.org/web-client/ch11/
+Objetivo: http://challenge01.root-me.org/web-client/ch11/
 
-Ver código fuente de la web. Miramos en el login.js
+Ver código fuente de la web. Miramos en el login.js.
 
 ~~~~
 <script language="JavaScript" src="login.js"></script>
@@ -651,14 +651,14 @@ function connexion(){
 }
 ~~~~
 
-El usuario es GOD y la contraseña HIDDEN, para resolver el reto ponemos la contraseña HIDDEN
+El usuario es GOD y la contraseña HIDDEN para resolver el reto ponemos la contraseña HIDDEN
 
 
 Javascript - Obfuscation 1
 
 Objetivo : http://challenge01.root-me.org/web-client/ch4/ch4.html
 
-Nos sale un alert, le damos a cancelar , miramos en el código fuente
+Nos sale un alert damos a cancelar miramos en el código fuente:
 
 ~~~~
 <script type="text/javascript">
@@ -676,21 +676,21 @@ Nos sale un alert, le damos a cancelar , miramos en el código fuente
           </script>
 ~~~~
 
-Vemos que la contraseña es : 
+Vemos que la contraseña es: 
 ~~~~
 pass = '%63%70%61%73%62%69%65%6e%64%75%72%70%61%73%73%77%6f%72%64';
 ~~~~
-Para descubrir la contraseña hacemos lo siguiente :
+Para descubrir la contraseña hacemos lo siguiente:
 
-En inspeccionar, entramos en la pestaña consola :
+En inspeccionar entramos en la pestaña consola:
 
-Vamos a escribir
+Se escribe
 
 ~~~~
 unescape(pass);
 ~~~~
 
-Contraseña : cpasbiendurpassword
+Contraseña: cpasbiendurpassword
 
 
 
@@ -701,7 +701,7 @@ HTML Source Code
 
 Objetivo : http://challenge01.root-me.org/web-serveur/ch1/
 
-Miramos en el código fuente y tenemos :
+Miramos en el código fuente y tenemos:
 
 ~~~~
 <!--
@@ -713,7 +713,7 @@ Miramos en el código fuente y tenemos :
 -->
 ~~~~
 
-Contraseña : nZ^&@q5&sjJHev0
+Contraseña: nZ^&@q5&sjJHev0
 
 
 ## <a href="https://overthewire.org/wargames/natas/"> https://overthewire.org/wargames/natas/</a>
@@ -731,9 +731,9 @@ URL:      http://natas0.natas.labs.overthewire.org
 
 Natas Level 0 --> Level 1
 
-Una vez dentro, de poner el usuario y la contraseña anterior.
+Una vez dentro poner el usuario y la contraseña anterior.
 
-Miramos en el código fuente y tenemos :
+Miramos en el código fuente y tenemos:
 
 ~~~~
 
@@ -741,18 +741,18 @@ Miramos en el código fuente y tenemos :
 
 ~~~~
 
-Tenemos el siguiente objetivo :
+Tenemos el siguiente objetivo:
 
 ~~~~
 Username: natas1
 URL:      http://natas1.natas.labs.overthewire.org
 ~~~~
 
-Dentro de la url anterior, ponemos en el alert, el usuario natas1 y la contraseña anterior.
+Dentro de la url anterior ponemos en el alert usuario natas1 y la contraseña anterior.
 
 Natas Level 1 --> Level 2
 
-Miramos en el código fuente :
+Miramos en el código fuente:
 
 ~~~~
 
@@ -760,19 +760,19 @@ Miramos en el código fuente :
 
 ~~~~
 
-El objetivo 
+El objetivo:
 
 ~~~~
 Username: natas2
 URL:      http://natas2.natas.labs.overthewire.org
 ~~~~
 
-En la URL anterior, ponemos natas2 y la contraseña anterior.
+En la URL anterior ponemos natas2 y la contraseña anterior.
 
 
 Natas Level 2 --> Level 3
 
-Miramos en el Inspector, y tenemos lo siguiente :
+Miramos en el Inspector tenemos lo siguiente:
 
 ~~~~
 
@@ -783,16 +783,16 @@ Miramos en el Inspector, y tenemos lo siguiente :
 </div>
 ~~~~
 
-Entonces en el objetivo : 
+Entonces en el objetivo: 
 
 ~~~~
 
 http://natas2.natas.labs.overthewire.org/files/
 
 ~~~~
-Vemos un archivo llamado : users.txt
+Vemos un archivo llamado: users.txt.
 
-Dentro hay lo siguiente :
+Dentro hay lo siguiente:
 
 ~~~~
 
@@ -807,19 +807,19 @@ mallory:9urtcpzBmH
 
 ~~~~
 
-Ya tenemos para poder acceder al otro nivel
+Ya tenemos para poder acceder al otro nivel:
 
 ~~~
 Username: natas3
 URL:      http://natas3.natas.labs.overthewire.org
 ~~~~
 Entramos en el objetivo anterior, en el alert:
-Usuario : natas3
-Contraseña : G6ctbMJ5Nb4cbFwhpMPSvxGHhQ7I6W8Q (del archivo users.txt)
+Usuario: natas3
+Contraseña: G6ctbMJ5Nb4cbFwhpMPSvxGHhQ7I6W8Q (del archivo users.txt)
 
 Natas Level 3 --> Level 4
 
-En el código fuente, tenemos la siguiente pista :
+En el código fuente tenemos la siguiente pista:
 
 ~~~~
 
@@ -839,7 +839,7 @@ User-agent: *
 Disallow: /s3cr3t/
 ~~~~
 
-Al entrar al objetivo :
+Al entrar al objetivo:
 
 ~~~~
 
@@ -849,7 +849,7 @@ http://natas3.natas.labs.overthewire.org/s3cr3t/
 
 Nos sale un archivo llamado users.txt
 
-Y ¡Felicidades ya lo tenemos !
+¡Felicidades ya lo tenemos!
 
 ~~~~
 natas4:tKOcJIbzM4lTs8hbCmzn5Zr4434fGZQm
@@ -857,7 +857,7 @@ natas4:tKOcJIbzM4lTs8hbCmzn5Zr4434fGZQm
 
 Natas Level 3 --> Level 4
 
-El usuario 
+El usuario:
 
 ~~~~
 
@@ -866,14 +866,14 @@ URL:      http://natas4.natas.labs.overthewire.org
 
 ~~~~
 
-Y la contraseña anterior : tKOcJIbzM4lTs8hbCmzn5Zr4434fGZQm
+La contraseña anterior: tKOcJIbzM4lTs8hbCmzn5Zr4434fGZQm
 
 
 ## <a href="https://xss-game.appspot.com"> https://xss-game.appspot.com</a>
 
 Level 1 
 
-Ponemos lo siguiente en el campo de texto :
+Ponemos lo siguiente en el campo de texto:
 
 ~~~~
 <script>
@@ -885,7 +885,7 @@ alert("hola");
 
 Foogle
 
-En el campo de texto :
+En el campo de texto:
 
 ~~~~
 <script>
@@ -899,7 +899,7 @@ Challenges
 
 001 
 
-Nos da el siguiente hash : aG12e2Jhc2U2NGRlY29kZXJ9
+Nos da el siguiente hash: aG12e2Jhc2U2NGRlY29kZXJ9
 
 Usamos una herramienta: ejemplo buscamos por decrypt hash.
 
@@ -910,29 +910,29 @@ Bandera: hmv{base64decoder}
 ~~~~
 002
 
-Nos dan el siguiente enlace : http://momo.hackmyvm.eu/ch4ll3ng3002/
+Nos dan el siguiente enlace: http://momo.hackmyvm.eu/ch4ll3ng3002/
 
-Miramos en el código fuente : isthisthepassword?
+Miramos en el código fuente: isthisthepassword?
 
-Ponemos isthisthepassword?, en el input
+Ponemos isthisthepassword? en el input
 
 ~~~~
 Bandera: HMV{thatwasreallyeazy}
 ~~~~
 004
 
-Nos dan el sigueinte hash : 686d767b6d79666c61676973656173797d
+Nos dan el sigueinte hash: 686d767b6d79666c61676973656173797d
 
 Usamos una herramienta: decrypt hash
 
-Conseguimos : 686d767b6d79666c61676973656173797d:hmv{myflagiseasy}
+Conseguimos: 686d767b6d79666c61676973656173797d:hmv{myflagiseasy}
 
 ~~~~
 Bandera: hmv{myflagiseasy}
 ~~~~
 009
 
-Se inspecciona la web : seleccionamos the flag is here 
+Se inspecciona la web: seleccionamos the flag is here 
 
 ~~~~
 Bandera:  HMV{infrontofme}
