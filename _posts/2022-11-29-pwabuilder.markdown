@@ -7,11 +7,11 @@ categories: jekyll update
 
 # Creación de una PWA con PWABuilder
 
-Por aquí tenemos la documentacion : <a href="https://docs.pwabuilder.com/#/starter/quick-start"> Acceder a la documentación</a>
+La documentacion: <a href="https://docs.pwabuilder.com/#/starter/quick-start"> Acceder a la documentación</a>
 
 ## Usar lo siguiente
 
-La plantilla, con la que usamos la pwa
+La plantilla que usamos.
 <a href="https://github.com/pwa-builder/pwa-starter"> Acceder a la pwa</a>
 
 ## Proyecto desplegado
