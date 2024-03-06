@@ -7,6 +7,6 @@ categories: jekyll update
 
 # Ejemplo de aplicación SPA con el framework Angular
 
-Esta aplicación SPA, como veras en el ejemplo al pulsar en un enlace, no se recarga la web.
+Esta aplicación SPA no se recarga la web al usar los enlaces.
 
 <a href="https://spa-ng.netlify.app/"> Acceder a la SPA</a>
