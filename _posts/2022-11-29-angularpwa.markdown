@@ -8,11 +8,11 @@ categories: jekyll update
 
 # PWA
 
-Las PWA son aplicaciones progresivas, son aplicaciones web que se pueden instalar en el dispositivo móvil, desde el navegador.
+Las PWA son aplicaciones progresivas, son aplicaciones web que se pueden instalar en el dispositivo móvil desde el navegador.
 
 ## Angular
 
-Por aquí dejo la documentanción de Angular <a href="https://angular.io/"> Documentación Angular</a>
+La documentanción de Angular <a href="https://angular.io/"> Documentación Angular</a>
 
 
 ## Creación del proyecto Angular
@@ -34,7 +34,7 @@ ng serve
 
 ## Vamos a crear la pwa
 
-Dentro del directorio, ejecutamos lo siguiente :
+Dentro del directorio ejecutamos el siguiente comando:
 
 ~~~~
 ng add @angular/pwa
@@ -47,8 +47,8 @@ ng add @angular/pwa
 ng build
 ~~~~
 
-NOTA : Tienes que subir la carpeta Dist , donde quieras desplegar este proyecto.
+NOTA: Tienes que subir la carpeta Dist donde quieras desplegar este proyecto.
 
-## Aqui tienes, cuando ese proyecto se sube a netlify
+## Cuando el proyecto se sube a netlify
 
 <a href="https://portafoliotriple.netlify.app/"> Acceder</a>
