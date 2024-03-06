@@ -1,6 +1,6 @@
 # Blog creado con Jekyll
 
-Es donde voy poniendo, diferentes cosas que voy haciendo, para así ver como voy avanzando.
+Es un blog creado con el objetivo de documentar los diferentes proyectos.
 
 ## Enlace
 
