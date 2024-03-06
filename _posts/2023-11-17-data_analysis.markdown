@@ -7,11 +7,11 @@ categories: jekyll update
 
 # Data Analysis
 
-Analizar datos, con diferentes herramientas.
+Analizar datos con diferentes herramientas.
 
 ## Excel 
 
-Creamos una tabla :
+Creamos una tabla:
 
 Empleados: Nombre de los empleados.
 
@@ -19,31 +19,31 @@ Horas: Horas trabajadas.
 
 Cargo: Puesto de trabajo.
 
-Dar formato como tabla :
+Dar formato como tabla:
 
 En la flecha: Marcamos según el cargo del empleado.
 
 Para filtrar el nombre del empleado y sus horas.
 
-Tabla dinámica :
+Tabla dinámica
 
-Insertar Tabla dinámica :
+Insertar Tabla dinámica:
 
-En valores : Suma de Horas.
+En valores: Suma de Horas.
 
-Fila : Empleados.
+Fila: Empleados.
 
 Filtro de Informe: Cargo.
 
 
-Para calcular la suma total de horas, la hora de cada empleado.
+Para calcular la suma total de horas de los empleados.
 
 
 ## Otra forma 
 
 Insertar Tabla 
 
-Limpiar Datos :
+Limpiar Datos:
 
 Quitar duplicados.
 
