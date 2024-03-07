@@ -8,9 +8,9 @@ categories: jekyll update
 # JSON con Angular
 
 
-Se lee un archivo JSON, donde dentro tiene imágenes y textos, donde se usa un componente , servicio, modelo en el proyecto Angular, es el uso de una API en Angular.
+Se lee un archivo JSON donde dentro tiene imágenes y textos, se usa un componente, servicio, modelo en el proyecto Angular, uso de una API en Angular.
 
-Para poder subirlo en netlify :
+Para poder subirlo en netlify:
 
 ~~~~
 ng build
