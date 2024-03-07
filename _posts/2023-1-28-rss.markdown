@@ -7,8 +7,8 @@ categories: jekyll update
 
 ## Leer RSS con JavaScript
 
-Se lee este archivo RSS feed, <a href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml">Ir al archivo</a> , como vemos es un archivo xml.
+Se lee este archivo RSS feed, <a href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml">Ir al archivo</a>, es un archivo xml.
 
-Al darle en el enlace , nos manda a la noticia.
+Al darle en el enlace, nos manda a la noticia.
 
 <a href="https://tripleyei.github.io/rss_reader/" target="_blank">Leer un RSS</a>
