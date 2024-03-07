@@ -15,7 +15,7 @@ Creamos el proyecto
 ng new app
 ~~~~
 
-En Routing le decimos y (yes), y con CSS
+En Routing le decimos y (yes) y con CSS
 
 Creamos un componente
 
@@ -23,7 +23,7 @@ Creamos un componente
 ng generate component inicio
 ~~~~
 
-En el archivo ts :
+En el archivo ts:
 
 Tenemos que importar el modelo y el servicio
 
@@ -41,7 +41,7 @@ Aqui es donde ponemos : api = "http://localhost:3000/yei";
 
 NOTA : Al conectar front con back, nos saldrá un error de CORS.
 
-Lo solucionamos así :
+Lo solucionamos así:
 ~~~~
 npm install cors
 ~~~~
@@ -52,9 +52,9 @@ npm install cors
 
 
 
-Creamos un modelo, donde ponemos :
+Creamos un modelo, donde ponemos:
 
-Ejemplo : ejemplo.model.ts
+Ejemplo: ejemplo.model.ts
 
 Depende de la API, en este caso la API tiene los campos id,name y url
 ~~~~
