@@ -5,15 +5,15 @@ date:   2023-1-13
 categories: jekyll update
 ---
 
-# Vamos a empezar
+# Retos y ejercicios
 
-Voy a jugar con diferentes ejercicios y retos.
+¡Empezamos!
 
 ## JSchallenger <a href="https://www.jschallenger.com/"> Ir a la web</a>
 
-JavaScript Practice : JavaScript fundamentals 
+JavaScript Practice: JavaScript fundamentals 
 
-Suma de dos numeros : sum two numbers
+Suma de dos numeros: sum two numbers.
 
 ~~~~
 function myFunction(a, b) {
@@ -23,7 +23,7 @@ function myFunction(a, b) {
 
 ~~~~
 
-Comparación de operadores : Comparison operators, strict equality
+Comparación de operadores: Comparison operators, strict equality.
 ~~~~
   function  myFunction(a, b)
   {
@@ -38,7 +38,7 @@ Comparación de operadores : Comparison operators, strict equality
 
 ~~~~
 
-Get type of value : obtener el tipo del valor
+Get type of value: obtener el tipo del valor.
 
 ~~~~
 
@@ -628,7 +628,7 @@ document.getElementById("demo").addEventListener("click", myFunction);
 
 ## Practicar SQL online : <a href="https://www.sql-practice.com/"> Ir a la web</a>
 
-Show first name and last name of patients who does not have allergies. (null)
+Show first name and last name of patients who does not have allergies (null).
 
 Mostrar el nombre y apellido de los pacientes, quién no tiene alergias.
 
@@ -637,32 +637,32 @@ SELECT first_name,last_name FROM patients WHERE allergies IS NULL;
 ~~~~
 
 
-Show first name of patients that start with the letter 'C'
+Show first name of patients that start with the letter 'C'.
 
-Mostrar el nombre del paciente que empiece con la letra C
+Mostrar el nombre del paciente que empiece con la letra C.
 
 ~~~~
 SELECT first_name from patients WHERE first_name LIKE "C%";
 ~~~~
 
-Show first name, last name, and gender of patients who's gender is 'M'
+Show first name, last name, and gender of patients who's gender is 'M'.
 
-Mostrar nombre, apellido, y genero del paciente, genero es M
+Mostrar nombre, apellido, y genero del paciente, genero es M.
 
 ~~~~
 SELECT first_name,last_name,gender from patients WHERE gender="M";
 ~~~~
 
-Show first name and last name of patients that weight within the range of 100 to 120 (inclusive)
+Show first name and last name of patients that weight within the range of 100 to 120 (inclusive).
 
-Mostrar nombre y apellido del paciente, el peso sea entre 100 y 120
+Mostrar nombre y apellido del paciente, el peso sea entre 100 y 120.
 ~~~~
 SELECT first_name,last_name from patients WHERE weight between 100 AND 120;
 ~~~~
 
-Update the patients table for the allergies column. If the patient's allergies is null then replace it with 'NKA'
+Update the patients table for the allergies column. If the patient's allergies is null then replace it with 'NKA'.
 
-Actualizar la tabla pacientes, columna alergias. Si el paciente alérgico es nulo reemplza con "NKA"
+Actualizar la tabla pacientes, columna alergias. Si el paciente alérgico es nulo reemplza con "NKA".
 ~~~~
 UPDATE patients SET  allergies = "NKA" where allergies is NULL;
 ~~~~
@@ -1120,7 +1120,7 @@ Problem solving
 
 Solve me First
 
-Resuelto en PHP :  sum of two integers
+Resuelto en PHP :  sum of two integers.
 
 ~~~~
 
@@ -1151,7 +1151,7 @@ Query all columns for all American cities in the CITY table with populations lar
 
 The CITY table is described as follows: 
 
-Consulta de todas las columnas de las ciudades americanas en la tabla ciudad , con población mayor a 100000. El código del país americano es USA
+Consulta de todas las columnas de las ciudades americanas en la tabla ciudad con población mayor a 100000. El código del país americano es USA.
 
 ~~~~
 SELECT * FROM CITY WHERE POPULATION > 100000 AND COUNTRYCODE = "USA";
@@ -1162,7 +1162,7 @@ Revising the Select Query II
 
 Query the NAME field for all American cities in the CITY table with populations larger than 120000. The CountryCode for America is USA. 
 
-Consulta del campo nombre de todas las ciudades de américa en la tabla ciudad con mayor población 120000. El código del pais para américa es USA
+Consulta del campo nombre de todas las ciudades de América en la tabla ciudad con mayor población 120000. El código del pais para América es USA
 ~~~~
 SELECT NAME FROM CITY WHERE POPULATION > 120000 AND COUNTRYCODE = "USA";
 ~~~~
@@ -1189,7 +1189,7 @@ SELECT * FROM CITY WHERE ID = "1661";
 
 Query all attributes of every Japanese city in the CITY table. The COUNTRYCODE for Japan is JPN. 
 
-Consulta de todos los atributos para ciudad Japonsa de la tabla ciudad. El código postal para Japón es JPN
+Consulta de todos los atributos para ciudad japonesa de la tabla ciudad. El código postal para Japón es JPN
 
 ~~~~
 SELECT * FROM CITY WHERE COUNTRYCODE = "JPN";
@@ -1208,7 +1208,7 @@ SELECT NAME FROM CITY WHERE COUNTRYCODE = "JPN";
 
 Query a list of CITY and STATE from the STATION table. 
 
-Cosulta de una lista de ciudad y estado de la tabla estación
+Cosulta de una lista de ciudad y estado de la tabla estación.
 
 ~~~~
 SELECT CITY,STATE FROM STATION ;
@@ -1217,7 +1217,7 @@ SELECT CITY,STATE FROM STATION ;
 
 Query a list of CITY names from STATION for cities that have an even ID number. Print the results in any order, but exclude duplicates from the answer.
 
-Consulta de nombres de ciudades de cada ciudad de un estacion con ID positivo, muestra los resultados en orden y excluye duplicados.
+Consulta nombres de ciudades de cada ciudad de un estacion con ID positivo, muestra los resultados en orden y excluye duplicados.
 
 ~~~~
 SELECT DISTINCT  CITY FROM STATION WHERE  MOD(ID,2) = 0;
@@ -1253,7 +1253,7 @@ public class Solution {
 
 Java Stdin and Stdout II
 
-Leer por teclado y mostrar, un string, integer y double.
+Leer por teclado y mostrar un string, integer y double.
 
 ~~~~
 import java.util.Scanner;
@@ -1308,7 +1308,7 @@ public class Solution {
 
 
 
-Java OOP : orientado a objetos
+Java OOP: orientado a objetos
 
 Java Inheritance I
 Herencia
@@ -1432,9 +1432,9 @@ class Solution{
 ~~~~
 
 
-## Codict. App programación.
+## Codict: App programación
 
-Sum two Numbers.
+Sum two Numbers
 ~~~~~~
 function sumTwoNumbers(a,b) {
 	return a+b
