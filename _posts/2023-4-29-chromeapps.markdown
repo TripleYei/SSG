@@ -63,7 +63,7 @@ chrome.app.runtime.onLaunched.addListener(function() {
 
 ## Chrome
 
-Entramos en el menú, Más herrramientas, extensiones.
+Entramos en el menú --> Más herrramientas --> extensiones.
 
 
-Cargar descomprimida, subimos la carpeta, donde hemos creado los archivos.
+Cargar descomprimida, subimos la carpeta donde hemos creado los archivos.
