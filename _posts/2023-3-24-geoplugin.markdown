@@ -8,7 +8,7 @@ categories: jekyll update
 
 ## Uso de GeoPlugin con JavaScript
 
-Con esta API, podemos obtener información de la ciudad, ip , país etc.
+Con esta API podemos obtener información de la ciudad, ip, país, etc.
 
 <a href="https://www.geoplugin.com/"> Acceder a la web</a>
 
@@ -18,7 +18,7 @@ Con esta API, podemos obtener información de la ciudad, ip , país etc.
 <script src="http://www.geoplugin.net/javascript.gp"></script>
 ~~~~
 
-## Funcion Ciudad , IP y País
+## Funcion Ciudad, IP, País
 ~~~~
 function geoplugin_city()
 function geoplugin_request()
