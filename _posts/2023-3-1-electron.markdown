@@ -8,7 +8,7 @@ categories: jekyll update
 
 ## Angular Electron
 
-Por aquí dejo una aplicacion web Angular,se convierte a Escritorio con Electron.
+Por aquí dejo una aplicacion web Angular se convierte a Escritorio con Electron.
 
 
 Más información : <a href="https://github.com/TripleYei/angular_electron"> Acceder</a>
