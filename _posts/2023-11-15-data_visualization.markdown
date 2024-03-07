@@ -217,7 +217,7 @@ Clic en Conectar.
 Tenemos las dimensiones : A,B Y C --> Como la hoja de Cálculo.
 
 
-Clic en Crear Informe, Añadir al Informe.
+Clic en Crear Informe. Añadir al Informe.
 
 Añadir un gráfico: Barras,Circular,Líneas.
 
@@ -227,26 +227,26 @@ Añadir un gráfico: Barras,Circular,Líneas.
 
 ## Hoja de Cálculo de Google 
 
-Antes tenemos que crear, una serie de datos.
+Antes tenemos que crear una serie de datos.
 
 Insertar gráfico
 
 ## Excel 
 
-Creamos una serie de datos antes de usar el gráfico :
+Creamos una serie de datos antes de usar el gráfico:
 
 Insertar:  
 
-Columna.
+Columna,
 
-Línea.
+Línea,
 
-Circular.
+Circular,
 
-Barras.
+Barras,
 
-Área.
+Área,
 
-Dispersión.
+Dispersión,
 
 Uso de otros gráficos.
