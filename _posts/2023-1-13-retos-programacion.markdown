@@ -1798,3 +1798,83 @@ function anagramDetector(str1, str2) {
 
 }
 ~~~~~
+
+
+## W3schools
+
+What are the next two numbers in the fibonacci sequence?
+
+
+0,1,1,2,3,5,8, , 
+
+Solution:
+
+~~~~
+0,1,1,2,3,5,8,13,21
+~~~~
+
+How can we make this fibonacci() function recursive?
+
+
+print(0)
+print(1)
+count = 2
+
+def fibonacci(prev1, prev2):
+    global count
+    if count <= 19:
+        newFibo = prev1 + prev2
+        print(newFibo)
+        prev2 = prev1
+        prev1 = newFibo
+        count += 1
+        
+? (prev1, prev2)
+    else:
+        return
+
+fibonacci(1,0)
+
+solution:
+
+~~~~
+print(0)
+print(1)
+count = 2
+
+def fibonacci(prev1, prev2):
+    global count
+    if count <= 19:
+        newFibo = prev1 + prev2
+        print(newFibo)
+        prev2 = prev1
+        prev1 = newFibo
+        count += 1
+        
+fibonacci(prev1, prev2)
+    else:
+        return
+
+fibonacci(1,0)
+~~~~
+
+
+How can we print value "7" from the array below?
+
+my_array = [7, 12, 9, 4, 11]
+
+print(my_array[])
+
+
+solution:
+
+~~~~
+print(my_array[0])
+~~~~
+
+
+
+
+
+
+
