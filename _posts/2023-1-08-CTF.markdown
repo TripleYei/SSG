@@ -945,3 +945,21 @@ Miramos los robots.txt
 ~~~~
 Bandera: HMV{robotized}
 ~~~~
+
+
+## Descrube el secreto
+
+Tenemos el siguiente código:
+
+~~~~
+72 79 76 65 32 77 85 78 68 79
+~~~~
+
+
+Para obtener el mensaje tenemos que tener en cuenta la tabla ASCII.
+
+Solución
+
+~~~~
+HOLA MUNDO
+~~~~
