@@ -947,7 +947,7 @@ Bandera: HMV{robotized}
 ~~~~
 
 
-## Descrube el secreto
+## Descubre el secreto
 
 Tenemos el siguiente código:
 
