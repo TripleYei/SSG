@@ -958,7 +958,7 @@ Tenemos el siguiente código:
 
 Para obtener el mensaje tenemos que tener en cuenta la tabla ASCII.
 
-Solución
+Solución:
 
 ~~~~
 HOLA MUNDO
