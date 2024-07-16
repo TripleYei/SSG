@@ -1874,7 +1874,115 @@ print(my_array[0])
 
 
 
+## Python
 
 
+num = 10
+print(num)
+
+~~~~
+10
+~~~~
+
+num = 0
+print(num)
+print(10)
+
+~~~~
+0
+10
+~~~~
 
 
+number_one = 1
+print(number_one)
+
+~~~~
+1
+~~~~
+
+price = 1
+price = 2
+print(price)
+
+~~~~
+2
+~~~~
+
+
+Here, we declare the variable num. But it does not have a value yet. Assign a value to it and run the code.
+
+~~~~
+num = 0
+print(num)
+~~~~
+
+
+In this exercise the variable with value 5. Reassign the variable with the number 10 and run the code.
+
+~~~~
+num = 5
+num = 10
+print(num)
+~~~~
+
+
+num_ONE = 1
+print(num_ONE)
+
+~~~~
+1
+~~~~
+
+num?one = 1
+print(num?one)
+
+~~~~
+SyntaxError: invalid syntax
+~~~~
+
+
+num = 0
+  print(num)
+
+~~~~
+IndentationError: unexpected indent
+~~~~
+
+
+In this exercise we create a variable and try to print it. But, there's a small error. Fix the code and run it.
+
+
+tax rate = 0.3
+print(tax rate)
+
+
+~~~~
+tax_rate = 0.3
+print(tax_rate)
+~~~~
+
+
+In this exercise we try to print the value of the variable price. But, there's a small error. Fix the code and run it.
+
+
+price = 5
+print(PRICE)
+
+
+~~~~
+price = 5
+print(price)
+~~~~
+
+
+Same as before, we want to print the value of the variable we have created. But, there's an issue with the syntax. Fix the code and run it.
+
+
+  nu:m = 5
+print(nu:m)
+
+~~~~
+num = 5
+print(num)
+~~~~
