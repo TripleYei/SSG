@@ -1878,6 +1878,7 @@ print(my_array[0])
 
 
 num = 10
+
 print(num)
 
 ~~~~
@@ -1885,7 +1886,9 @@ print(num)
 ~~~~
 
 num = 0
+
 print(num)
+
 print(10)
 
 ~~~~
@@ -1895,6 +1898,7 @@ print(10)
 
 
 number_one = 1
+
 print(number_one)
 
 ~~~~
@@ -1902,7 +1906,9 @@ print(number_one)
 ~~~~
 
 price = 1
+
 price = 2
+
 print(price)
 
 ~~~~
@@ -1928,6 +1934,7 @@ print(num)
 
 
 num_ONE = 1
+
 print(num_ONE)
 
 ~~~~
@@ -1935,6 +1942,7 @@ print(num_ONE)
 ~~~~
 
 num?one = 1
+
 print(num?one)
 
 ~~~~
@@ -1943,6 +1951,7 @@ SyntaxError: invalid syntax
 
 
 num = 0
+
   print(num)
 
 ~~~~
@@ -1954,7 +1963,9 @@ In this exercise we create a variable and try to print it. But, there's a small 
 
 
 tax rate = 0.3
+
 print(tax rate)
+
 
 
 ~~~~
@@ -1967,6 +1978,7 @@ In this exercise we try to print the value of the variable price. But, there's a
 
 
 price = 5
+
 print(PRICE)
 
 
@@ -1980,6 +1992,7 @@ Same as before, we want to print the value of the variable we have created. But,
 
 
   nu:m = 5
+  
 print(nu:m)
 
 ~~~~
