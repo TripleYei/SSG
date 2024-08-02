@@ -2000,11 +2000,14 @@ num = 5
 print(num)
 ~~~~
 
+~~~~
 price = 1
 
 # price = 10
 
 print(price)
+~~~~
+
 
 ~~~~
 1
