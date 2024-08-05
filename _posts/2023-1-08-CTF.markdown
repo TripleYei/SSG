@@ -999,5 +999,16 @@ What is the administrator’s password?
 SuperSecretPassword
 ~~~~
 
+What protocol was the flag transferred with?
+
+~~~~
+HTTP
+~~~~
+
+
+
+
+
+
 
 
