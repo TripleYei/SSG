@@ -963,3 +963,41 @@ Solución:
 ~~~~
 HOLA MUNDO
 ~~~~
+
+
+What is the developer’s nickname?
+
+
+~~~~
+Sir Code-a-lot
+~~~~
+
+
+What month of the year was this webpage written in?
+
+~~~~
+April
+~~~~
+
+
+What is the name of the webpage that the developer has not finished making (and therefore not linked to)?
+
+~~~~
+Admin.html
+~~~~
+ 
+What is the administrator’s username?
+
+~~~~
+admin
+~~~~
+
+
+What is the administrator’s password?
+
+~~~~
+SuperSecretPassword
+~~~~
+
+
+
