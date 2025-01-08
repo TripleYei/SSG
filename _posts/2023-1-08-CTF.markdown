@@ -1007,6 +1007,100 @@ HTTP
 
 
 
+## <a href="https://ctfacademy.github.io/index.htm">https://ctfacademy.github.io/index.htm/</a>
+
+
+Web App Exploitation
+
+
+Challenge 1
+
+
+What is the developer’s nickname?
+
+~~~~
+Sir Code-a-lot
+~~~~
+
+What month of the year was this webpage written in?
+
+~~~~
+April
+~~~~
+
+
+What is the name of the webpage that the developer has not finished making (and therefore not linked to)?
+
+~~~~
+admin.html
+~~~~
+
+Find the flag and input the answer.
+
+~~~~
+ctfa{Quest_for_Comments}
+~~~~
+
+
+Challenge 2
+
+
+What is the administrator’s username?
+
+
+~~~~
+admin
+~~~~
+
+
+What is the administrator’s password?
+
+~~~~
+superSecretPassword
+~~~~
+
+
+Find the flag and input the answer.
+
+~~~~
+ctfa{Client-side_Validation}
+~~~~
+
+
+
+Network Forensics
+
+
+Challenge 1
+
+What protocol was the flag transferred with?
+
+~~~~
+HTTP
+~~~~
+
+What is the flag found in the capture file?
+
+~~~~
+ctfa{terrific_traffic}
+~~~~
+
+Challenge 2
+
+What is the first flag in the packet capture?
+
+~~~~
+ctfa{HTTP_FTW}
+~~~~
+
+
+What is the second flag in the packet capture?
+
+~~~~
+ctfa{HTTP_31337}
+~~~~
+
+
 
 
 
