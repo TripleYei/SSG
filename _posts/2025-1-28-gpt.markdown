@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "GPT de ChatGPT"
+date:   2025-1-28
+categories: jekyll update
+---
+
+# Chat de ChatGPT
+
+
+## Detecta Phishing
+
+Esta herramiente te permite para ayudar a identificar Phishing es una gran herramiente para poder ayudarte sobre incidencias de seguridad
+
+Enlace: <a href="https://chatgpt.com/g/g-679892afc09c8191ac49c480a0033a50-detecta-phishing">Clic aqui</a>
+
+## Asistente del Tiempo
+
+Esta herramiente te permite conocer el tiempo en tu ciudad.
+
+Enlace: <a href="https://chatgpt.com/g/g-67988e7b0d24819192871af990cda136-asistente-del-tiempo">Clic aqui</a>
