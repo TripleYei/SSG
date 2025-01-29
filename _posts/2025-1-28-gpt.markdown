@@ -27,3 +27,10 @@ Herramienta que te  permite hacerle preguntas para ser más culto.
 
 Enlace: <a href="https://chatgpt.com/g/g-6797d80737c48191bf613c62377682be-enciclopedia-interactiva">Clic aqui</a>
 
+## Diagnóstico Automotriz
+
+¿Conoces el error P0420?
+
+Esta herramiente te puede ayudar a solucionar tus problemas.
+
+Enlace: <a href="https://chatgpt.com/g/g-6799e3cb33388191819e0de560cf2316-diagnostico-automotriz">Clic aqui</a>
