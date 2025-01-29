@@ -11,19 +11,19 @@ Voy a poner diferentes gpt de diferentes temas.
 
 ## Detecta Phishing
 
-Esta herramiente te permite para ayudar a identificar Phishing es una gran herramiente para poder ayudarte sobre incidencias de seguridad
+Esta herramienta te permite para ayudar a identificar Phishing es una gran herramiente para poder ayudarte sobre incidencias de seguridad
 
 Enlace: <a href="https://chatgpt.com/g/g-679892afc09c8191ac49c480a0033a50-detecta-phishing">Clic aqui</a>
 
 ## Asistente del Tiempo
 
-Esta herramiente te permite conocer el tiempo en tu ciudad.
+Esta herramienta te permite conocer el tiempo en tu ciudad.
 
 Enlace: <a href="https://chatgpt.com/g/g-67988e7b0d24819192871af990cda136-asistente-del-tiempo">Clic aqui</a>
 
 ## Cultura general
 
-Herramiente que te  permite hacerle preguntas para ser más culto.
+Herramienta que te  permite hacerle preguntas para ser más culto.
 
 Enlace: <a href="https://chatgpt.com/g/g-6797d80737c48191bf613c62377682be-enciclopedia-interactiva">Clic aqui</a>
 
