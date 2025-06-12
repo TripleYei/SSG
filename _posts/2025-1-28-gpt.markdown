@@ -11,7 +11,7 @@ Voy a poner diferentes gpt de diferentes temas.
 
 ## Detecta Phishing
 
-Esta herramienta te permite para ayudar a identificar Phishing es una gran herramiente para poder ayudarte sobre incidencias de seguridad
+Esta herramienta te permite para ayudar a identificar Phishing es una gran herramienta para poder ayudarte sobre incidencias de seguridad
 
 Enlace: <a href="https://chatgpt.com/g/g-679892afc09c8191ac49c480a0033a50-detecta-phishing">Clic aqui</a>
 
