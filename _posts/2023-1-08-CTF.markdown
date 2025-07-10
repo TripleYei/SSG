@@ -23,8 +23,9 @@ Disallow: /secret_d1rect0y/
 
 Dentro del objetivo: http://www.vulnbegin.co.uk/secret_d1rect0y
 
+~~~~
 ¡Felicidades! [^FLAG^2B22E2CB70E218510802B0359488F6A2^FLAG^]
-
+~~~~
 
 ## <a href="https://www.picoctf.org/">https://www.picoctf.org/</a>
 
@@ -45,7 +46,9 @@ Disallow: /1bb4c.html
 
 https://jupiter.challenges.picoctf.org/problem/56830/1bb4c.html
 
+~~~~
 ¡Felicidades! picoCTF{ca1cu1at1ng_Mach1n3s_1bb4c}
+~~~~
 
 ## Categoría: Web Exploitation
 
@@ -68,7 +71,9 @@ Dentro del código JS
 
 Tenemos: f7w_2of2_df589022}
 
+~~~~
 Al juntar las dos partes: picoCTF{1nclu51v17y_1of2_f7w_2of2_df589022}
+~~~~
 
 ## Categoría: Web Exploitation
 
