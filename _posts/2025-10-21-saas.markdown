@@ -14,4 +14,17 @@ La Landing Page es la página de inicio para que se conozca el Producto / Servic
 Se usa para vender...
 
 
+¿Qué es SaaS?
+
+Son las siglas de Software como Servicio, es un servicio web subido en la nube
+
+¿Para qué sirve?
+
+Un negocio necesita dinero, entonces un SaaS es un modelo de negocio que sirve para que el negocio obtenga dinero de manera mensual.
+
+
+
+
+
+
 Más información: <a href="https://github.com/TripleYei/Modern-SaaS-Landing">Clic aquí</a>
