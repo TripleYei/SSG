@@ -13,3 +13,7 @@ categories: jekyll update
 # Todo List
 
 <a href="https://tripleyei.github.io/To-do-list/">Ver ahora</a>
+
+# Hero Section
+
+<a href="https://tripleyei.github.io/Reto_frontend-chatGPT/">Ver ahora</a>
