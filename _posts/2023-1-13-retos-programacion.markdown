@@ -49,6 +49,152 @@ function myFunction(a)
 }
 ~~~~
 
+Hello World
+To complete this exercise, type console.log('Hello World'); and run the code.
+
+~~~~
+console.log('Hello World');
+~~~~
+
+
+Reassign a value to a variable
+Assign a new value to the variable num. The code will not work the way it is. Find the mistake and fix it. Execute the corrected code.
+
+~~~~
+let num = 1;
+num = 2;
+console.log(num);
+~~~~
+
+Assign a value to a variable
+Here, we declare the variable num. But, it has no value yet. Assign a value to it and run the code.
+
+~~~~
+let num;
+num = 5;
+console.log(num);
+~~~~
+
+
+Assign the value of another variable
+Here, we have two variables numOne and numTwo. numOne already has a value. Assign numTwo the value of numOne and run the code.
+
+~~~~
+let numOne = 5;
+let numTwo = numOne;
+console.log(numTwo);
+~~~~
+
+
+Create the missing variable
+Below, we attempt to assign the value of a variable named numOne to the variable numTwo. But, that variable has not been declared yet. Declare a variable named numOne and run the code.
+
+~~~~
+let numOne = 5;
+let numTwo = numOne;
+console.log(numTwo);
+~~~~
+
+
+Accessing a variable (1)
+In this simple exercise we declare a variable called num and assign it a value of 5. Then we try to log the value of the variable using the console.log() method.
+But, the console.log() method contains a small mistake. If you try to run the code, you will see an error message.
+Fix the mistake and run the code again.
+
+
+~~~~
+const num = 5;
+console.log(num);
+~~~~
+
+
+Accessing a variable (2)
+This exercise is very similar to the previous one. We declare a variable called num, assign it a value of 5, and try to log it. But again, we introduced a small mistake.
+Fix the code and run it.
+
+~~~~
+const num = 5;
+console.log(num);
+~~~~
+
+
+
+Declare a variable and assign a number
+In this exercise we practice how to declare a new variable and how to assign it a number. The console.log() statement below attempts to log a variable named num.
+Declare a variable with this name and assign it a number of your choice. Run the code to see if the number is being logged.
+
+
+~~~~
+const num = 5;
+console.log('The value of num is: ' + num);
+~~~~
+
+
+Reassign a value to a variable (2)
+The code below first declares a variable named num with value 1. Then, a new value 2 is assigned. Finally, the variable is logged.
+But, the code will not work like that. Find the mistake and fix it. Execute the corrected code.
+
+~~~~
+let num = 1;
+num = 2;
+console.log(num);
+~~~~
+
+
+Uncomment to Assign a Number
+As you can see, the code is trying to print the value of x, but it's not working because the variable is commented out.
+
+In JavaScript, comments are used to add notes to your code or to disable lines of code.
+You can create a single-line comment by adding // in front of a line. JavaScript will ignore that line when running the code.
+
+Your task:
+Uncomment the line that declares the variable so that the code prints the value of x.
+
+
+~~~~
+const x = 7;
+console.log(x);
+~~~~
+
+
+Time to Uncomment
+This time, the variable declaration is still commented out, but in a slightly different way — the comment appears inline.
+
+In JavaScript, comments can also be placed after code on the same line. These are called inline comments and also start with //.
+
+Your task:
+Fix the variable declaration so the code prints the value of x.
+
+
+~~~~
+const x = 100;
+console.log(x);
+~~~~
+
+
+Time to comment
+In this challenge, the variable x is reassigned to a new value, but we want to prevent this change.
+
+To do this, you can use a comment to "disable" the line of code that reassigns x. Comments can be used to stop specific code from running without deleting it.
+
+Your task:
+Comment out the reassignment of x so that the code still prints the value 100.
+
+
+~~~~
+let x = 100;
+
+// x = 0
+
+
+console.log(x);
+~~~~
+
+
+
+
+
+
 # JavaScript w3schools
 
 Create a variable called carName, assign the value Volvo to it.
