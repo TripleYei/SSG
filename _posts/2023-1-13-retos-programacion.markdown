@@ -50,6 +50,7 @@ function myFunction(a)
 ~~~~
 
 Hello World
+
 To complete this exercise, type console.log('Hello World'); and run the code.
 
 ~~~~
