@@ -2178,3 +2178,80 @@ function quine() {
   return quine.toString();
  }
 ~~~~
+
+
+## codechef  <a href="https://www.codechef.com/"> Ir a la web</a>
+
+JavaScript practice
+
+
+Print 108 using 9 and 12
+
+
+~~~~
+console.log(9*12);
+~~~~
+
+
+Print Learn Coding on CodeChef
+Print "Learn Coding on CodeChef" to the console.
+
+~~~~
+console.log('Learn coding on CodeChef');
+~~~~
+
+print the result of a / b.
+
+~~~~
+let a = 30;
+let b = 10;
+
+console.log(a / b );
+~~~~
+
+
+Convert Temperature
+Declare a variable "temperature" and initialise it with a value of 25.5 
+
+
+in Celsius and Print it in Celsius and Kelvin 
+
+add 273 to temperature in Celsius
+
+
+~~~~
+let temperature = 25.5;
+
+console.log("Celsius - " + temperature);
+console.log("Kelvin - " + (temperature + 273));
+
+~~~~
+
+
+
+Print total minutes and seconds
+Declare a variable hour and initialize it with the value 5
+Then, calculate and print the total number of minutes and seconds present in this hour.
+
+
+~~~~
+let hour = 5;
+
+console.log(hour * 60)
+console.log(hour * 3600)
+~~~~
+
+
+Convert speed
+Create a variable named speed1 and assign it the value 36, representing speed in kilometers per hour. Then, convert and display this speed in meters per second.
+
+[Note: 1 km/h = 5/18 m/s]
+
+
+~~~~
+let speed1 = 36;
+
+console.log( speed1 * 5/18);
+
+~~~~
+
