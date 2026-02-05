@@ -193,6 +193,98 @@ console.log(x);
 
 
 
+Comparison operators - Equal
+In the console.log() statement below we use the Equal operator to check whether numOne and numTwo have the same value. Change the code so that the console.log() statement logs true.
+
+~~~~
+const numOne = 5;
+const numTwo = 5;
+console.log(numOne == numTwo);
+~~~~
+
+
+Comparison operators - Not Equal
+In the console.log() statement below we use the Not Equal operator to check whether numOne and numTwo have different values. Change the code so that the console.log() statement logs true.
+
+
+~~~~
+const numOne = 5;
+const numTwo = 6;
+console.log(numOne != numTwo);
+
+~~~~
+
+
+Create a Javascript string
+In this exercise the existing console.log() statement logs the value of the variable text. The variable text has already been declared with an empty string – as indicated by the two single quotes.
+Fill in the string with some characters and run the code to see if the string is being logged.
+
+
+~~~~
+const text = 'hello world';
+console.log('The value of text is' + text)
+
+~~~~
+
+
+
+Declare a String Variable
+Create a variable named greeting and assign it the string value Hello world using either single or double quotes.
+
+
+~~~~
+const greeting = 'Hello world';
+console.log(greeting);
+~~~~
+
+
+
+Compare Strings with Different Quotes
+Assign a string to two different variables: one using single quotes and one using double quotes. Then, check if these variables are equal using the === operator.
+
+
+~~~~
+let str1 = 'hello';
+let str2 = "hello";
+const areEqual = str1 === str2;
+console.log(areEqual);
+~~~~
+
+
+The code will assign the variable num a new value 1. But it will only run if the condition is met.
+Adjust the condition such that the code inside the curly braces will execute and the console.log() statement logs true.
+
+
+~~~~
+let num = 0;
+if (1 < 2) {
+   num = 1;
+}
+console.log(num === 1);
+~~~~
+
+
+In this exercise we create a function called func. Then we call the function and assign its return value to the variable result. To solve this exercise, simply have the console.log() statement log the words hello world.
+
+
+~~~~
+function func() {
+   return 'hello world';
+};
+const result = func();
+console.log(result);
+
+~~~~
+
+
+Complete the code to create an object called person with two properties: name set to 'Bob' and age set to 25.
+
+~~~~
+
+const person = { name: 'Bob', age: 25 };
+console.log(person.name); // output: 'Bob'
+console.log(person.age); // output: 25
+~~~~
 
 
 
