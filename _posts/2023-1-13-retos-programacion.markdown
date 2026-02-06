@@ -338,7 +338,166 @@ Write a function that takes a number and returns an object with properties:
 }
 ~~~~
 
-  
+
+Add a property to an object using dot notation
+Add a new property age with the value 30 to the person object using dot notation.
+
+
+
+~~~~
+const person = {
+  name: 'Alice'
+};
+person.age = 30;
+console.log(person.age);
+~~~~
+
+
+Update an Object Property
+Change the value of the age property of the person object to 30.
+
+~~~~
+const person = { name: 'Sam', age: 25 };
+person.age = 30;
+console.log(person.age);
+~~~~
+
+
+
+
+Add a Property to an Object
+Complete the addCountry function so that it adds a new property country to the given object, assigning it the provided value. Use dot notation to add the property. The function should not return anything — it should modify the object directly.
+
+
+~~~~
+function addCountry(obj, value) {
+  obj.country = value;
+}
+~~~~
+
+
+Add a Property Based on Two Existing Properties
+Given an object with 'firstName' and 'lastName' properties, add a new property called 'fullName' whose value is the two properties joined with a space.
+
+
+~~~~
+
+const person = { firstName: 'Ada', lastName: 'Lovelace' };
+person.fullName = person.firstName + ' ' + person.lastName;
+console.log(person.fullName);
+
+~~~~
+
+
+
+Delete a property from an object
+Remove the age property from the person object using the delete operator.
+
+
+
+~~~~
+const person = { name: 'Alice', age: 30, city: 'London' };
+delete person.age;
+~~~~
+
+
+
+
+Loop Through an Array with a For...of Loop
+Use a for...of loop to iterate over all elements in the colors array and push each color to the result array.
+
+
+~~~~
+const colors = ['red', 'green', 'blue'];
+const result = [];
+for (const color of colors) {
+  result.push(color);
+}
+console.log(result);
+~~~~
+
+
+   
+Select the button element on the page
+In this scenario, the existing code adds an eventListener for a click event on a variable buttonElem. It expects buttonElem to be the button element in the example UI. But, that element is not selected yet.
+Assign the button element to the variable buttonElem. Click the button to verify that the code is working.
+Hint: Make use of the unique id of the button element.
+
+
+
+~~~~
+const buttonElem = document.getElementById("button");
+
+buttonElem.addEventListener('click', () => {
+  const oldText = buttonElem.innerText;
+  return button.innerText = oldText === "ON" ? "OFF" : "ON";
+});
+~~~~
+
+
+Execute function on button click
+The Javascript function handleText fills the input field with the words Hello World. But, there is no code to execute this function.
+Complete the existing code below such that the function is called when the button is clicked. Verify by clicking the button.
+
+
+~~~~
+const button = document.getElementById('button');
+const input = document.getElementById('input');
+
+const handleClick = () => {
+  input.value = 'Hello World';
+};
+
+button.addEventListener('click', handleClick);
+~~~~
+
+
+
+Remove element from the DOM
+You may not see it in the example UI, but underneath the red circle is a green circle. Extend the function removeRedCircle to remove the circle with id red from the DOM.
+Make sure that you really remove the element instead of just hiding it. Confirm that your code works by clicking the button.
+
+
+~~~~
+const button = document.querySelector('#button');
+
+const removeRedCircle = () => {
+  const redCircle = document.querySelector('#red');
+  redCircle.parentNode.removeChild(redCircle);
+};
+const button = document.querySelector('#button');
+
+const removeRedCircle = () => {
+  const redCircle = document.querySelector('#red');
+  redCircle.parentNode.removeChild(redCircle);
+};
+~~~~
+
+
+Check the checkbox
+Your first JavaScript DOM exercise. Let's start simple.
+Extend the JavaScript code below to interact with the displayed HTML elements. Once you click the button, the checkbox should be checked.
+Confirm your code by clicking the button!
+
+
+~~~~
+const button = document.getElementById('button');
+button.addEventListener('click', () => {
+  const checkbox = document.getElementById('checkbox');
+  checkbox.checked = true;
+});
+const button = document.getElementById('button');
+button.addEventListener('click', () => {
+  const checkbox = document.getElementById('checkbox');
+  checkbox.checked = true;
+});
+~~~~
+
+
+
+
+
+
 
 # JavaScript w3schools
 
