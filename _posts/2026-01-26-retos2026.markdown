@@ -17,3 +17,7 @@ categories: jekyll update
 # Hero Section
 
 <a href="https://tripleyei.github.io/Reto_frontend-chatGPT/">Ver ahora</a>
+
+# Plantilla 
+
+<a href="https://tripleyei.github.io/hero-section/">Ver ahora</a>
