@@ -288,6 +288,58 @@ console.log(person.age); // output: 25
 
 
 
+
+Create Object from Function Parameters
+Write a function makePerson that takes name and age as parameters, and returns an object with properties name and age set to the corresponding argument values.
+Example: makePerson('Alice', 30) should return { name: 'Alice', age: 30 }.
+
+
+~~~~
+function makePerson(name, age) {
+  return { name, age };
+}
+~~~~
+
+
+
+Create an Object with Conditional Properties
+Write a function makeUser that takes two parameters, name and age, and returns an object with the following properties:
+- name (always included)
+- isAdult (true if age is 18 or above, false otherwise)
+
+Do not just assign parameters directly—use logic to set isAdult.
+
+
+~~~~
+function makeUser(name, age) {
+  return {
+    name: name,
+    isAdult: age >= 18
+  };
+}
+~~~~
+
+
+
+
+Create an Object with Calculated Property Values
+Write a function that takes a number and returns an object with properties:
+- original (the input number)
+- double (twice the input number)
+- isPositive (true if the number is positive, false otherwise)
+
+  ~~~~
+  function describeNumber(n) {
+  return {
+    original: n,
+    double: n * 2,
+    isPositive: n > 0
+  };
+}
+~~~~
+
+  
+
 # JavaScript w3schools
 
 Create a variable called carName, assign the value Volvo to it.
