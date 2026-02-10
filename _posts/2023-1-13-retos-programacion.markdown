@@ -2558,3 +2558,63 @@ console.log( speed1 * 5/18);
 
 ~~~~
 
+
+
+Conditional statements
+
+
+Prodigy Student - Rectify code
+Modify the given program to output the name of the student with the higher percentage. In case they score equal percentages, print 'equal'.
+
+
+~~~~
+let name_1 = "Ajay";
+let name_2 = "Sumit";
+
+let marks_1 = 98.4;
+let marks_2 = 98.4;
+
+if (marks_2 == marks_1) {
+    console.log("equal");
+} else {
+    console.log(name_1);
+}
+
+
+~~~~
+
+
+
+
+Print the minimum
+Rectify the given code to print the smallest among them.
+
+
+~~~~
+let x = 2;
+let y = 3;
+let z = 1;
+
+if (x > y) {
+    if (x < z) {
+        console.log(x);
+    } else {
+        if (y > z) {
+            console.log(y);
+        } else {
+            console.log(z);
+        }
+    }
+} else {
+    if (y < z) {
+        console.log(y);
+    } else {
+        if (x < z) {
+            console.log(x);
+        } else {
+            console.log(z);
+        }
+    }
+}
+
+~~~~
